@@ -1,0 +1,11 @@
+issue_type,total_tickets,resolved_count,open_backlog,avg_resolution_days,avg_csat_score
+Card Blocked,2560,2057,503,9.4,3.01
+Fraud Report,2535,2052,483,9.5,3.01
+Net Banking Issue,2532,2070,462,9.5,3.03
+Cheque Bounce,2531,2045,486,9.6,2.97
+Loan Query,2521,1997,524,9.4,3.04
+KYC Update,2491,1971,520,9.5,3.0
+Account Statement,2474,1958,516,9.4,2.97
+Wrong Debit,2466,1974,492,9.6,2.97
+App Login Issue,2450,1966,484,9.6,3.04
+Interest Query,2440,1961,479,9.5,2.99

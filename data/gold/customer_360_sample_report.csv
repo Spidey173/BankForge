@@ -1,0 +1,1001 @@
+customer_id,full_name,gender,city,state,occupation,annual_income,credit_score,credit_tier,total_accounts,total_deposit_balance,total_cards,total_loans,total_borrowed_amount,total_support_tickets
+1,Pooja Garcia,Male,Ahmedabad,Gujarat,Retired,200025,690,FAIR,2,46839.05,1,0,0.0,0
+2,Anjali Kapoor,Female,Lucknow,Uttar Pradesh,Salaried - Government,1865003,672,FAIR,1,145657.29,1,0,0.0,0
+3,James Smith,Female,Chandigarh,Punjab,Salaried - Government,1709141,422,POOR,1,112247.57,1,0,0.0,0
+4,Susan Joshi,Male,Nagpur,Maharashtra,Salaried - Private,1917060,498,POOR,1,70198.23,1,0,0.0,1
+5,Kiran Mehta,Male,Lucknow,Uttar Pradesh,Freelancer,2398864,690,FAIR,2,252242.76,1,0,0.0,0
+6,Ritu Rodriguez,Male,Bhopal,Madhya Pradesh,Salaried - Government,1392916,305,POOR,1,54088.31,2,0,0.0,0
+7,Patricia Malhotra,Female,Bengaluru,Karnataka,Self Employed,2731327,886,EXCELLENT,0,0.0,3,1,351799.89,0
+8,Kiran Malhotra,Male,Hyderabad,Telangana,Self Employed,3028638,671,FAIR,1,27786.7,1,0,0.0,1
+9,Rahul Gupta,Female,Chennai,Tamil Nadu,Freelancer,2352302,312,POOR,0,0.0,2,0,0.0,0
+10,Linda Chopra,Female,Mumbai,Maharashtra,Self Employed,3051537,537,POOR,1,5499.07,2,0,0.0,0
+11,Elizabeth Rao,Male,Indore,Madhya Pradesh,Business Owner,1986696,634,POOR,2,97373.2,0,0,0.0,0
+12,Anita Malhotra,Male,Bengaluru,Karnataka,Salaried - Private,2443470,475,POOR,0,0.0,2,1,951407.5,0
+13,Rahul Chopra,Male,Kolkata,West Bengal,Business Owner,1178245,401,POOR,1,52296.45,1,0,0.0,2
+14,Anjali Bose,Male,Hyderabad,Telangana,Retired,1373708,764,EXCELLENT,4,98701.79,0,1,232863.64,1
+15,Charles Mehta,Female,Mumbai,Maharashtra,Student,2607834,812,EXCELLENT,1,11053.55,0,0,0.0,1
+16,Joseph Patel,Female,Nagpur,Maharashtra,Business Owner,3360835,822,EXCELLENT,2,42436.86,0,0,0.0,1
+17,Rahul Rodriguez,Female,Bengaluru,Karnataka,Self Employed,2723122,455,POOR,2,38144.23,2,0,0.0,0
+18,Kavya Jones,Female,Pune,Maharashtra,Salaried - Government,2444392,691,FAIR,0,0.0,1,1,463215.04,0
+19,Pooja Jones,Male,Hyderabad,Telangana,Student,175931,396,POOR,2,159282.48,1,1,295803.17,0
+20,Robert Nair,Male,Delhi,Delhi,Freelancer,2457935,851,EXCELLENT,0,0.0,4,1,1003569.53,3
+21,Jessica Chatterjee,Male,Indore,Madhya Pradesh,Business Owner,3312516,384,POOR,1,15002.84,2,0,0.0,0
+22,Richard Garcia,Female,Delhi,Delhi,Self Employed,2276364,684,FAIR,0,0.0,1,0,0.0,0
+23,Meera Garcia,Female,Chennai,Tamil Nadu,Salaried - Private,3293336,815,EXCELLENT,1,37963.15,1,1,42449.44,0
+24,Arjun Jones,Male,Chennai,Tamil Nadu,Salaried - Private,1793674,724,GOOD,1,5259.23,1,0,0.0,0
+25,Arjun Chopra,Female,Mumbai,Maharashtra,Salaried - Government,2277441,475,POOR,0,0.0,1,0,0.0,1
+26,Charles Iyer,Male,Mumbai,Maharashtra,Business Owner,2828475,627,POOR,0,0.0,1,0,0.0,1
+27,Kiran Williams,Male,Ahmedabad,Gujarat,Self Employed,2672544,666,FAIR,3,106588.72,2,1,280541.31,0
+28,Neha Rodriguez,Female,Bengaluru,Karnataka,Salaried - Government,544042,765,EXCELLENT,3,63013.94,1,0,0.0,0
+29,Vikram Miller,Male,Pune,Maharashtra,Business Owner,3307231,488,POOR,1,4767.53,1,2,328238.58,3
+30,Priya Verma,Male,Chennai,Tamil Nadu,Salaried - Government,1771948,640,POOR,0,0.0,0,0,0.0,3
+31,Barbara Menon,Male,Chennai,Tamil Nadu,Student,3330719,484,POOR,1,51761.49,0,1,366902.92,1
+32,Kiran Garcia,Female,Kolkata,West Bengal,Salaried - Private,1810018,691,FAIR,1,3986.53,1,0,0.0,0
+33,Charles Reddy,Other,Indore,Madhya Pradesh,Student,1382030,468,POOR,0,0.0,0,2,253397.28,1
+34,Robert Chatterjee,Male,Chennai,Tamil Nadu,Business Owner,2814966,858,EXCELLENT,1,7062.06,1,0,0.0,0
+35,Linda Iyer,Male,Chandigarh,Punjab,Business Owner,2923271,808,EXCELLENT,2,155017.99,1,0,0.0,0
+36,Vikram Kumar,Male,Bhopal,Madhya Pradesh,Retired,2394462,660,FAIR,2,138018.52,0,1,430248.51,0
+37,Divya Martinez,Male,Mumbai,Maharashtra,Retired,805210,789,EXCELLENT,1,29446.97,1,0,0.0,1
+38,Charles Mehta,Female,Ahmedabad,Gujarat,Freelancer,2624042,815,EXCELLENT,0,0.0,0,0,0.0,0
+39,Sneha Williams,Male,Kolkata,West Bengal,Freelancer,2999524,456,POOR,3,80849.01,2,1,184224.01,0
+40,Deepak Brown,Male,Ahmedabad,Gujarat,Salaried - Government,495483,444,POOR,2,101438.39,1,0,0.0,0
+41,Michael Johnson,Female,Delhi,Delhi,Salaried - Private,783259,860,EXCELLENT,1,10584.57,1,0,0.0,1
+42,Suresh Martinez,Male,Kolkata,West Bengal,Salaried - Government,1860674,496,POOR,0,0.0,3,1,171039.43,0
+43,Rohan Sharma,Other,Pune,Maharashtra,Retired,367671,462,POOR,0,0.0,1,0,0.0,0
+44,Richard Mehta,Female,Indore,Madhya Pradesh,Salaried - Government,2910618,372,POOR,1,83248.05,1,0,0.0,1
+45,Michael Chatterjee,Female,Jaipur,Rajasthan,Salaried - Government,943923,896,EXCELLENT,0,0.0,0,0,0.0,1
+46,Ritu Miller,Other,Mumbai,Maharashtra,Student,1474623,855,EXCELLENT,1,10078.49,0,0,0.0,0
+47,Amit Reddy,Female,Ahmedabad,Gujarat,Business Owner,2258141,341,POOR,2,100158.88,1,0,0.0,1
+48,Amit Chatterjee,Male,Nagpur,Maharashtra,Salaried - Government,198041,801,EXCELLENT,4,129132.68,0,0,0.0,0
+49,Neha Singh,Male,Bhopal,Madhya Pradesh,Self Employed,3399827,854,EXCELLENT,1,25611.43,0,0,0.0,0
+50,Barbara Desai,Female,Chennai,Tamil Nadu,Freelancer,2388838,800,EXCELLENT,0,0.0,2,0,0.0,1
+51,Robert Patel,Female,Nagpur,Maharashtra,Freelancer,1401884,616,POOR,0,0.0,1,0,0.0,0
+52,Patricia Reddy,Male,Delhi,Delhi,Student,1470976,505,POOR,2,82767.12,0,1,291005.83,0
+53,Kavya Williams,Male,Bengaluru,Karnataka,Business Owner,3134673,681,FAIR,0,0.0,2,0,0.0,0
+54,Michael Brown,Other,Delhi,Delhi,Student,3421210,778,EXCELLENT,1,115839.9,2,1,66312.42,3
+55,Robert Miller,Female,Nagpur,Maharashtra,Business Owner,932297,453,POOR,2,45780.98,0,0,0.0,1
+56,Vikram Miller,Female,Chandigarh,Punjab,Business Owner,204664,470,POOR,4,272331.43,2,0,0.0,0
+57,Sarah Patel,Female,Ahmedabad,Gujarat,Self Employed,628368,876,EXCELLENT,4,155919.47,0,0,0.0,1
+58,Anita Smith,Male,Chandigarh,Punjab,Self Employed,926589,651,FAIR,2,201274.06,1,0,0.0,2
+59,Robert Kumar,Female,Bengaluru,Karnataka,Retired,691655,686,FAIR,2,34453.88,3,0,0.0,0
+60,Jennifer Rodriguez,Male,Pune,Maharashtra,Salaried - Government,535131,595,POOR,1,280868.94,2,1,199032.2,0
+61,Neha Verma,Male,Kochi,Kerala,Salaried - Private,1476571,477,POOR,2,168577.33,1,0,0.0,1
+62,Anjali Bose,Male,Indore,Madhya Pradesh,Salaried - Government,2598651,838,EXCELLENT,3,46589.41,1,0,0.0,0
+63,Elizabeth Chopra,Male,Mumbai,Maharashtra,Business Owner,2994201,822,EXCELLENT,1,12975.43,0,1,36494.76,0
+64,Amit Martinez,Female,Mumbai,Maharashtra,Business Owner,1729951,565,POOR,1,14477.07,3,0,0.0,0
+65,Linda Brown,Male,Jaipur,Rajasthan,Freelancer,2398025,634,POOR,0,0.0,0,0,0.0,0
+66,Ajay Bose,Male,Mumbai,Maharashtra,Salaried - Government,3004853,761,EXCELLENT,1,49514.29,2,0,0.0,3
+67,Rohan Chatterjee,Female,Chandigarh,Punjab,Salaried - Government,3449600,440,POOR,0,0.0,1,0,0.0,0
+68,Barbara Chatterjee,Male,Indore,Madhya Pradesh,Student,2766312,581,POOR,1,61282.82,1,1,640151.1,0
+69,Robert Davis,Male,Chennai,Tamil Nadu,Salaried - Government,2559612,313,POOR,0,0.0,1,2,942565.62,0
+70,Linda Chatterjee,Male,Chennai,Tamil Nadu,Salaried - Government,341114,335,POOR,1,10695.81,2,0,0.0,1
+71,Manoj Malhotra,Female,Kochi,Kerala,Freelancer,473013,511,POOR,0,0.0,1,0,0.0,1
+72,Suresh Bose,Female,Hyderabad,Telangana,Freelancer,1229513,399,POOR,2,23117.54,2,0,0.0,0
+73,Vikram Johnson,Male,Bengaluru,Karnataka,Self Employed,1867436,520,POOR,2,54404.04,1,0,0.0,0
+74,Pooja Garcia,Female,Pune,Maharashtra,Retired,2189538,650,FAIR,1,66981.68,1,0,0.0,1
+75,William Davis,Male,Kochi,Kerala,Self Employed,654549,865,EXCELLENT,2,99363.54,0,0,0.0,2
+76,William Mehta,Female,Nagpur,Maharashtra,Self Employed,1781787,816,EXCELLENT,2,92167.4,0,0,0.0,0
+77,Jennifer Williams,Male,Pune,Maharashtra,Salaried - Government,2736630,359,POOR,2,60167.19,1,0,0.0,0
+78,Joseph Gupta,Male,Kochi,Kerala,Salaried - Private,987504,826,EXCELLENT,0,0.0,2,0,0.0,1
+79,Sneha Smith,Female,Delhi,Delhi,Business Owner,1679777,482,POOR,2,210078.29,0,0,0.0,1
+80,Susan Miller,Female,Delhi,Delhi,Student,2247135,716,GOOD,2,101874.61,2,1,702518.29,0
+81,Robert Chatterjee,Male,Hyderabad,Telangana,Freelancer,2300283,703,GOOD,0,0.0,1,1,297218.01,2
+82,Kavya Joshi,Male,Kolkata,West Bengal,Salaried - Private,1397598,514,POOR,2,40416.19,3,0,0.0,0
+83,Patricia Mehta,Male,Kochi,Kerala,Salaried - Private,842577,554,POOR,0,0.0,1,1,499408.36,2
+84,William Pillai,Male,Chandigarh,Punjab,Business Owner,2976613,333,POOR,0,0.0,1,0,0.0,0
+85,John Singh,Female,Delhi,Delhi,Freelancer,533785,558,POOR,1,2043.4,0,0,0.0,0
+86,Patricia Verma,Female,Jaipur,Rajasthan,Student,881028,641,POOR,1,21321.71,2,0,0.0,2
+87,John Patel,Male,Nagpur,Maharashtra,Student,384438,412,POOR,2,44531.15,0,0,0.0,1
+88,Manoj Chatterjee,Male,Lucknow,Uttar Pradesh,Freelancer,2456875,536,POOR,1,13944.94,0,1,30060.41,2
+89,Linda Chopra,Male,Bengaluru,Karnataka,Self Employed,2824716,314,POOR,0,0.0,2,1,124370.96,0
+90,James Menon,Male,Pune,Maharashtra,Business Owner,3288341,463,POOR,1,17703.94,3,0,0.0,0
+91,Divya Nair,Female,Kolkata,West Bengal,Student,1702453,390,POOR,1,59059.97,1,0,0.0,0
+92,Sneha Pillai,Female,Ahmedabad,Gujarat,Salaried - Private,3283685,455,POOR,2,129581.73,1,0,0.0,0
+93,Ajay Bose,Male,Hyderabad,Telangana,Freelancer,346725,815,EXCELLENT,0,0.0,0,0,0.0,1
+94,Richard Davis,Male,Pune,Maharashtra,Business Owner,3278945,744,GOOD,0,0.0,0,0,0.0,0
+95,Ajay Joshi,Male,Pune,Maharashtra,Salaried - Government,2110422,813,EXCELLENT,0,0.0,0,0,0.0,1
+96,Sarah Smith,Female,Ahmedabad,Gujarat,Salaried - Private,736416,430,POOR,0,0.0,2,0,0.0,0
+97,Sneha Bose,Male,Indore,Madhya Pradesh,Retired,2023818,790,EXCELLENT,1,91597.0,0,0,0.0,1
+98,John Garcia,Male,Jaipur,Rajasthan,Retired,1649885,733,GOOD,1,113926.31,0,0,0.0,0
+99,Jennifer Gupta,Male,Kolkata,West Bengal,Self Employed,2650242,608,POOR,1,2792.93,4,0,0.0,1
+100,Michael Garcia,Male,Nagpur,Maharashtra,Salaried - Government,1052479,834,EXCELLENT,1,21424.02,1,0,0.0,0
+101,Rahul Smith,Female,Chandigarh,Punjab,Student,1531100,308,POOR,1,86422.82,2,0,0.0,0
+102,Anita Rodriguez,Female,Chandigarh,Punjab,Salaried - Private,3090496,558,POOR,1,312244.12,0,0,0.0,1
+103,Rahul Iyer,Male,Jaipur,Rajasthan,Salaried - Government,174370,833,EXCELLENT,0,0.0,0,0,0.0,0
+104,Jessica Verma,Male,Bhopal,Madhya Pradesh,Salaried - Government,2062105,646,POOR,1,6348.84,1,0,0.0,1
+105,Joseph Jones,Male,Ahmedabad,Gujarat,Self Employed,1790698,882,EXCELLENT,1,104238.91,2,2,767276.56,0
+106,Charles Bose,Male,Lucknow,Uttar Pradesh,Freelancer,2151404,835,EXCELLENT,0,0.0,0,0,0.0,1
+107,Jessica Chopra,Male,Lucknow,Uttar Pradesh,Salaried - Government,600414,765,EXCELLENT,2,62919.75,3,0,0.0,2
+108,James Sharma,Female,Bhopal,Madhya Pradesh,Salaried - Private,594879,730,GOOD,2,125670.91,0,0,0.0,0
+109,Richard Nair,Female,Nagpur,Maharashtra,Salaried - Government,1382466,377,POOR,0,0.0,1,0,0.0,0
+110,Kiran Joshi,Female,Chennai,Tamil Nadu,Salaried - Government,814346,329,POOR,2,69732.51,1,0,0.0,1
+111,Sanjay Iyer,Male,Chandigarh,Punjab,Salaried - Government,1469866,868,EXCELLENT,2,43241.89,1,0,0.0,1
+112,Rohan Singh,Male,Mumbai,Maharashtra,Student,1830499,876,EXCELLENT,2,71358.9,2,0,0.0,0
+113,Sarah Brown,Male,Ahmedabad,Gujarat,Retired,1141974,376,POOR,1,31111.56,2,0,0.0,1
+114,Sarah Williams,Male,Nagpur,Maharashtra,Salaried - Government,3400565,386,POOR,2,51216.31,0,1,124301.82,1
+115,Kavya Patel,Male,Lucknow,Uttar Pradesh,Salaried - Private,1911782,614,POOR,4,274043.97,0,0,0.0,2
+116,Suresh Menon,Female,Chennai,Tamil Nadu,Salaried - Private,581813,643,POOR,3,142273.49,0,0,0.0,0
+117,Karen Miller,Female,Lucknow,Uttar Pradesh,Salaried - Private,1614842,669,FAIR,2,67131.38,0,0,0.0,0
+118,John Rodriguez,Male,Hyderabad,Telangana,Student,668704,375,POOR,0,0.0,1,2,449654.69,1
+119,Neha Chopra,Female,Kolkata,West Bengal,Self Employed,2881998,809,EXCELLENT,2,11452.33,0,1,99144.99,1
+120,Charles Kumar,Male,Bengaluru,Karnataka,Salaried - Government,3052488,312,POOR,0,0.0,0,1,290296.93,1
+121,Suresh Garcia,Female,Lucknow,Uttar Pradesh,Business Owner,2104009,784,EXCELLENT,1,31164.19,0,0,0.0,0
+122,Amit Malhotra,Male,Delhi,Delhi,Salaried - Government,201535,585,POOR,0,0.0,1,0,0.0,1
+123,James Patel,Male,Kolkata,West Bengal,Salaried - Private,1220473,496,POOR,1,57810.18,0,2,1074691.6,0
+124,Barbara Verma,Female,Indore,Madhya Pradesh,Self Employed,1183703,558,POOR,0,0.0,1,0,0.0,0
+125,Barbara Martinez,Male,Bhopal,Madhya Pradesh,Business Owner,3075525,440,POOR,0,0.0,0,1,116173.1,1
+126,David Desai,Male,Kolkata,West Bengal,Salaried - Private,2756237,568,POOR,2,148615.97,0,0,0.0,0
+127,Charles Kapoor,Male,Indore,Madhya Pradesh,Freelancer,2017621,544,POOR,0,0.0,1,0,0.0,0
+128,Michael Bose,Female,Mumbai,Maharashtra,Student,1738294,484,POOR,2,169669.04,0,0,0.0,0
+129,Sanjay Joshi,Female,Indore,Madhya Pradesh,Business Owner,1827397,529,POOR,1,33732.03,2,0,0.0,0
+130,Kavya Malhotra,Male,Hyderabad,Telangana,Salaried - Government,308201,464,POOR,0,0.0,1,1,1070044.86,0
+131,Joseph Miller,Female,Kochi,Kerala,Business Owner,2754736,685,FAIR,0,0.0,1,0,0.0,0
+132,Arjun Desai,Male,Indore,Madhya Pradesh,Retired,481258,397,POOR,1,26930.45,2,0,0.0,0
+133,Suresh Sharma,Female,Lucknow,Uttar Pradesh,Business Owner,2338143,829,EXCELLENT,1,51027.31,2,0,0.0,0
+134,Thomas Sharma,Male,Lucknow,Uttar Pradesh,Freelancer,966768,756,EXCELLENT,3,254662.03,0,0,0.0,0
+135,Karen Bose,Female,Bhopal,Madhya Pradesh,Freelancer,2801427,308,POOR,1,22474.72,2,0,0.0,0
+136,Robert Kumar,Female,Bengaluru,Karnataka,Retired,2673901,476,POOR,1,99326.66,0,1,545728.0,1
+137,Priya Kumar,Female,Delhi,Delhi,Self Employed,3051971,876,EXCELLENT,1,20386.91,2,0,0.0,1
+138,Linda Iyer,Male,Hyderabad,Telangana,Business Owner,241940,672,FAIR,0,0.0,1,0,0.0,1
+139,Mary Verma,Male,Ahmedabad,Gujarat,Salaried - Private,2397391,895,EXCELLENT,2,39046.55,2,0,0.0,0
+140,Thomas Singh,Female,Bhopal,Madhya Pradesh,Self Employed,358110,821,EXCELLENT,2,41948.05,1,0,0.0,1
+141,Kavya Malhotra,Female,Bengaluru,Karnataka,Student,412752,860,EXCELLENT,0,0.0,1,0,0.0,2
+142,David Chopra,Female,Jaipur,Rajasthan,Retired,2892973,766,EXCELLENT,0,0.0,2,1,526796.97,0
+143,Jennifer Pillai,Male,Mumbai,Maharashtra,Salaried - Private,422999,718,GOOD,1,26234.74,1,0,0.0,0
+144,Pooja Kapoor,Female,Mumbai,Maharashtra,Retired,762492,361,POOR,1,735.72,1,2,553120.27,1
+145,Linda Singh,Male,Indore,Madhya Pradesh,Freelancer,2967240,782,EXCELLENT,0,0.0,1,1,156111.2,0
+146,Patricia Chatterjee,Female,Kochi,Kerala,Student,463354,539,POOR,1,91443.09,2,0,0.0,0
+147,James Williams,Female,Kochi,Kerala,Freelancer,2168879,869,EXCELLENT,3,134566.64,1,1,104582.61,0
+148,Thomas Davis,Male,Chennai,Tamil Nadu,Student,2563150,494,POOR,5,94423.03,0,0,0.0,0
+149,Thomas Desai,Male,Ahmedabad,Gujarat,Business Owner,978058,857,EXCELLENT,1,8535.15,0,0,0.0,1
+150,Anjali Smith,Female,Chandigarh,Punjab,Salaried - Government,2479260,784,EXCELLENT,1,19554.96,3,1,314774.72,0
+151,Rahul Kapoor,Female,Bengaluru,Karnataka,Student,1410825,832,EXCELLENT,2,57426.93,1,0,0.0,3
+152,Susan Kapoor,Female,Bhopal,Madhya Pradesh,Salaried - Government,779015,647,POOR,2,176583.57,4,0,0.0,0
+153,Susan Mehta,Female,Chandigarh,Punjab,Freelancer,3441365,343,POOR,1,21932.35,0,0,0.0,0
+154,Sanjay Johnson,Male,Kolkata,West Bengal,Self Employed,1904061,327,POOR,0,0.0,0,0,0.0,0
+155,Michael Bose,Male,Kolkata,West Bengal,Business Owner,2530254,649,POOR,4,196474.26,2,0,0.0,0
+156,Richard Davis,Female,Chennai,Tamil Nadu,Business Owner,1165433,388,POOR,2,46501.82,0,1,232850.33,1
+157,Rahul Rao,Male,Kochi,Kerala,Retired,3229451,393,POOR,0,0.0,1,2,907546.38,2
+158,Neha Garcia,Female,Indore,Madhya Pradesh,Student,3174691,673,FAIR,1,17676.4,2,1,893409.08,1
+159,Deepak Smith,Male,Indore,Madhya Pradesh,Salaried - Private,3129559,673,FAIR,2,39351.62,0,0,0.0,0
+160,Priya Sharma,Female,Bhopal,Madhya Pradesh,Salaried - Private,1897758,350,POOR,0,0.0,0,0,0.0,1
+161,David Jones,Male,Hyderabad,Telangana,Salaried - Private,2727084,619,POOR,2,73056.01,0,0,0.0,0
+162,Rohan Menon,Female,Bhopal,Madhya Pradesh,Salaried - Government,881349,663,FAIR,2,81222.93,0,0,0.0,1
+163,Richard Joshi,Female,Bengaluru,Karnataka,Freelancer,820958,322,POOR,1,5571.04,2,1,256828.57,0
+164,Michael Singh,Male,Nagpur,Maharashtra,Salaried - Private,2470952,499,POOR,2,71809.46,2,0,0.0,0
+165,Priya Verma,Male,Chennai,Tamil Nadu,Salaried - Private,2547615,856,EXCELLENT,1,39999.32,1,0,0.0,0
+166,John Johnson,Male,Kolkata,West Bengal,Business Owner,2022895,308,POOR,1,17426.28,0,0,0.0,1
+167,William Iyer,Male,Pune,Maharashtra,Self Employed,3008514,527,POOR,1,53175.76,1,2,245471.1,0
+168,Jennifer Menon,Male,Pune,Maharashtra,Self Employed,2092752,538,POOR,3,216085.39,1,0,0.0,0
+169,Ritu Rao,Female,Hyderabad,Telangana,Business Owner,709075,326,POOR,2,128858.78,0,0,0.0,0
+170,Pooja Pillai,Female,Jaipur,Rajasthan,Freelancer,1053815,750,EXCELLENT,1,83222.71,0,0,0.0,0
+171,Anjali Kapoor,Male,Mumbai,Maharashtra,Salaried - Private,701683,577,POOR,3,33451.31,0,0,0.0,1
+172,Meera Kumar,Male,Kochi,Kerala,Freelancer,2604171,879,EXCELLENT,0,0.0,3,0,0.0,0
+173,Anjali Johnson,Male,Pune,Maharashtra,Business Owner,3419269,308,POOR,2,31309.23,0,0,0.0,0
+174,David Malhotra,Female,Indore,Madhya Pradesh,Business Owner,955824,407,POOR,1,19681.86,0,0,0.0,1
+175,Robert Verma,Male,Chennai,Tamil Nadu,Salaried - Private,1544093,542,POOR,2,57152.87,2,0,0.0,0
+176,David Garcia,Male,Hyderabad,Telangana,Business Owner,3451463,786,EXCELLENT,0,0.0,1,0,0.0,0
+177,Deepak Rao,Male,Delhi,Delhi,Student,1373631,464,POOR,0,0.0,0,1,888666.07,1
+178,Jessica Reddy,Male,Kochi,Kerala,Salaried - Private,366907,659,FAIR,2,28380.45,0,0,0.0,1
+179,Rahul Verma,Male,Chandigarh,Punjab,Salaried - Government,497758,390,POOR,2,209286.41,2,0,0.0,0
+180,Joseph Patel,Male,Pune,Maharashtra,Retired,2449389,881,EXCELLENT,2,54749.0,1,0,0.0,1
+181,Amit Martinez,Female,Pune,Maharashtra,Retired,872797,631,POOR,1,60060.28,1,1,330827.86,0
+182,Neha Kapoor,Male,Lucknow,Uttar Pradesh,Business Owner,2475310,357,POOR,3,168575.97,0,1,89605.74,0
+183,Anjali Williams,Female,Kochi,Kerala,Salaried - Private,430342,578,POOR,0,0.0,0,0,0.0,0
+184,Charles Chopra,Male,Pune,Maharashtra,Salaried - Private,2484555,324,POOR,1,78604.47,0,0,0.0,1
+185,Kiran Reddy,Male,Bengaluru,Karnataka,Salaried - Private,1738058,356,POOR,1,13348.49,0,0,0.0,1
+186,Vikram Davis,Other,Jaipur,Rajasthan,Retired,3208823,720,GOOD,0,0.0,0,0,0.0,3
+187,Sarah Verma,Female,Pune,Maharashtra,Self Employed,3230234,834,EXCELLENT,0,0.0,0,0,0.0,0
+188,Patricia Rodriguez,Male,Chennai,Tamil Nadu,Self Employed,1055287,894,EXCELLENT,1,3585.32,0,2,1672408.18,1
+189,Meera Bose,Female,Mumbai,Maharashtra,Salaried - Private,1312204,374,POOR,1,6731.62,1,0,0.0,0
+190,Pooja Desai,Female,Ahmedabad,Gujarat,Retired,995034,396,POOR,3,90444.09,2,0,0.0,1
+191,Ajay Kapoor,Male,Chandigarh,Punjab,Retired,1810849,447,POOR,2,146935.87,3,0,0.0,1
+192,Sanjay Rodriguez,Female,Kolkata,West Bengal,Salaried - Private,3429567,343,POOR,4,271604.24,0,1,800969.29,0
+193,Joseph Joshi,Female,Bengaluru,Karnataka,Self Employed,1918803,326,POOR,2,85494.94,0,1,120824.25,1
+194,Kiran Sharma,Female,Kolkata,West Bengal,Salaried - Government,2113741,437,POOR,1,2980.42,0,0,0.0,0
+195,Linda Gupta,Male,Ahmedabad,Gujarat,Retired,3424443,885,EXCELLENT,0,0.0,2,0,0.0,0
+196,Neha Kumar,Male,Delhi,Delhi,Salaried - Government,3406116,761,EXCELLENT,1,8299.3,1,0,0.0,1
+197,Thomas Mehta,Male,Pune,Maharashtra,Salaried - Government,2897166,848,EXCELLENT,3,49302.32,2,0,0.0,0
+198,Amit Kumar,Female,Delhi,Delhi,Business Owner,783894,362,POOR,1,47144.62,1,0,0.0,0
+199,James Smith,Male,Indore,Madhya Pradesh,Retired,3177264,541,POOR,2,53175.46,3,0,0.0,1
+200,Amit Verma,Male,Chandigarh,Punjab,Freelancer,2017055,876,EXCELLENT,1,49718.87,2,0,0.0,1
+201,Anita Garcia,Female,Pune,Maharashtra,Salaried - Private,1694659,646,POOR,0,0.0,0,0,0.0,0
+202,Patricia Menon,Female,Chennai,Tamil Nadu,Freelancer,168311,786,EXCELLENT,1,21593.35,0,0,0.0,0
+203,Richard Johnson,Female,Kolkata,West Bengal,Self Employed,1722088,781,EXCELLENT,1,19012.8,2,0,0.0,1
+204,Susan Sharma,Female,Delhi,Delhi,Student,1606836,479,POOR,0,0.0,2,0,0.0,1
+205,Linda Pillai,Male,Kochi,Kerala,Salaried - Private,1758590,764,EXCELLENT,0,0.0,0,0,0.0,0
+206,Anjali Davis,Male,Indore,Madhya Pradesh,Salaried - Private,494726,728,GOOD,3,132983.33,2,0,0.0,1
+207,Sanjay Bose,Male,Bengaluru,Karnataka,Salaried - Government,2812802,540,POOR,1,32043.01,2,0,0.0,0
+208,Anjali Williams,Male,Mumbai,Maharashtra,Self Employed,1833634,737,GOOD,2,64940.19,2,0,0.0,0
+209,Robert Bose,Male,Chennai,Tamil Nadu,Retired,3168467,734,GOOD,3,151836.41,1,0,0.0,0
+210,Ajay Verma,Male,Jaipur,Rajasthan,Self Employed,1085414,464,POOR,2,147796.81,2,0,0.0,0
+211,Anita Kumar,Male,Kochi,Kerala,Retired,2004607,822,EXCELLENT,0,0.0,0,0,0.0,0
+212,Arjun Mehta,Female,Hyderabad,Telangana,Retired,3069391,326,POOR,1,50356.96,4,1,1072195.67,0
+213,Ajay Singh,Male,Chennai,Tamil Nadu,Salaried - Private,3301011,573,POOR,0,0.0,0,0,0.0,0
+214,Elizabeth Williams,Other,Bengaluru,Karnataka,Retired,1414087,503,POOR,1,10584.52,3,1,197485.9,0
+215,Suresh Sharma,Female,Mumbai,Maharashtra,Salaried - Government,2619452,899,EXCELLENT,2,138491.31,2,0,0.0,0
+216,Ritu Smith,Male,Mumbai,Maharashtra,Freelancer,543065,802,EXCELLENT,2,75826.76,0,0,0.0,0
+217,Susan Joshi,Male,Kolkata,West Bengal,Salaried - Government,3462583,698,FAIR,1,45032.03,1,0,0.0,1
+218,Amit Verma,Male,Lucknow,Uttar Pradesh,Self Employed,1149998,788,EXCELLENT,2,106886.19,0,0,0.0,0
+219,Arjun Joshi,Male,Mumbai,Maharashtra,Self Employed,581048,794,EXCELLENT,0,0.0,1,0,0.0,0
+220,Patricia Iyer,Male,Bengaluru,Karnataka,Student,531065,800,EXCELLENT,1,122109.55,1,0,0.0,0
+221,Mary Bose,Female,Nagpur,Maharashtra,Retired,2235613,638,POOR,1,28945.88,0,1,919298.04,1
+222,John Rodriguez,Male,Indore,Madhya Pradesh,Freelancer,1426007,677,FAIR,1,88377.96,0,2,735873.9,0
+223,Sanjay Gupta,Male,Lucknow,Uttar Pradesh,Business Owner,530027,534,POOR,3,122302.56,1,1,239375.4,0
+224,Vikram Williams,Other,Ahmedabad,Gujarat,Retired,3128747,457,POOR,1,82880.91,1,0,0.0,0
+225,Joseph Desai,Male,Jaipur,Rajasthan,Salaried - Private,2661264,835,EXCELLENT,1,23706.09,4,0,0.0,1
+226,Arjun Kumar,Male,Hyderabad,Telangana,Student,1367496,677,FAIR,1,26912.21,2,0,0.0,0
+227,Neha Verma,Female,Bengaluru,Karnataka,Salaried - Private,400015,518,POOR,2,77348.73,0,0,0.0,0
+228,Richard Martinez,Male,Hyderabad,Telangana,Business Owner,3483554,873,EXCELLENT,0,0.0,1,0,0.0,0
+229,Anita Kapoor,Female,Chandigarh,Punjab,Business Owner,1674979,345,POOR,1,44541.09,0,0,0.0,0
+230,Kiran Miller,Female,Lucknow,Uttar Pradesh,Self Employed,387486,617,POOR,1,59579.28,1,0,0.0,0
+231,Anjali Kapoor,Male,Chandigarh,Punjab,Student,1349593,568,POOR,0,0.0,0,0,0.0,1
+232,Linda Verma,Male,Lucknow,Uttar Pradesh,Freelancer,2752814,419,POOR,1,31527.81,0,0,0.0,0
+233,David Nair,Female,Mumbai,Maharashtra,Business Owner,1670110,477,POOR,0,0.0,0,0,0.0,0
+234,Michael Gupta,Male,Lucknow,Uttar Pradesh,Retired,1018451,401,POOR,2,154129.54,2,1,133247.33,0
+235,Kiran Sharma,Female,Nagpur,Maharashtra,Business Owner,1420991,893,EXCELLENT,2,103807.24,1,0,0.0,0
+236,Jessica Martinez,Male,Lucknow,Uttar Pradesh,Business Owner,1005174,753,EXCELLENT,2,121461.78,1,1,149753.9,0
+237,Rohan Rodriguez,Male,Jaipur,Rajasthan,Salaried - Private,582474,878,EXCELLENT,3,225454.97,1,0,0.0,0
+238,Anita Chopra,Male,Bengaluru,Karnataka,Freelancer,1849960,416,POOR,1,15197.16,1,0,0.0,0
+239,Mary Miller,Male,Bhopal,Madhya Pradesh,Self Employed,2347823,610,POOR,2,94514.21,3,0,0.0,1
+240,Karen Kumar,Female,Kolkata,West Bengal,Salaried - Government,905067,444,POOR,2,66401.71,1,0,0.0,1
+241,Patricia Kumar,Male,Bengaluru,Karnataka,Salaried - Private,3397964,784,EXCELLENT,3,43413.81,1,0,0.0,1
+242,Kavya Johnson,Male,Ahmedabad,Gujarat,Salaried - Private,2963486,856,EXCELLENT,0,0.0,1,0,0.0,1
+243,Joseph Singh,Female,Pune,Maharashtra,Student,243623,628,POOR,1,167102.21,0,0,0.0,0
+244,William Sharma,Female,Nagpur,Maharashtra,Freelancer,2333460,353,POOR,1,44506.1,0,0,0.0,2
+245,Linda Kapoor,Male,Chandigarh,Punjab,Salaried - Government,1927043,425,POOR,1,62430.93,0,1,195524.17,0
+246,Rohan Rao,Male,Chennai,Tamil Nadu,Salaried - Private,3312883,755,EXCELLENT,2,97096.22,0,0,0.0,0
+247,Michael Miller,Female,Bhopal,Madhya Pradesh,Salaried - Government,869876,679,FAIR,0,0.0,1,0,0.0,1
+248,Anita Chatterjee,Male,Mumbai,Maharashtra,Salaried - Government,2678462,879,EXCELLENT,0,0.0,1,0,0.0,2
+249,Mary Pillai,Male,Hyderabad,Telangana,Retired,1475607,485,POOR,2,140580.02,1,0,0.0,1
+250,Deepak Martinez,Male,Lucknow,Uttar Pradesh,Salaried - Government,3489309,686,FAIR,1,11055.52,1,0,0.0,0
+251,Michael Gupta,Male,Mumbai,Maharashtra,Salaried - Private,678764,823,EXCELLENT,2,33549.52,1,0,0.0,1
+252,Manoj Smith,Female,Chandigarh,Punjab,Salaried - Private,3358926,663,FAIR,0,0.0,1,0,0.0,0
+253,Meera Smith,Female,Kochi,Kerala,Self Employed,2810106,807,EXCELLENT,1,39953.3,0,0,0.0,0
+254,Anjali Chatterjee,Male,Jaipur,Rajasthan,Business Owner,930718,875,EXCELLENT,2,66167.63,0,0,0.0,3
+255,Ritu Desai,Male,Bengaluru,Karnataka,Retired,1086049,470,POOR,1,15913.25,0,0,0.0,1
+256,Suresh Kumar,Male,Bhopal,Madhya Pradesh,Self Employed,3365341,498,POOR,4,186367.73,0,0,0.0,1
+257,Anita Chatterjee,Female,Hyderabad,Telangana,Salaried - Government,3463514,485,POOR,2,105874.4,1,0,0.0,0
+258,Robert Reddy,Male,Bhopal,Madhya Pradesh,Retired,3159648,690,FAIR,3,73026.23,1,0,0.0,0
+259,Pooja Martinez,Female,Lucknow,Uttar Pradesh,Retired,1318255,349,POOR,4,131687.75,1,0,0.0,0
+260,Anita Rao,Male,Pune,Maharashtra,Student,824004,352,POOR,0,0.0,1,0,0.0,0
+261,Elizabeth Verma,Female,Pune,Maharashtra,Salaried - Government,1883121,793,EXCELLENT,0,0.0,1,0,0.0,0
+262,Suresh Chopra,Female,Mumbai,Maharashtra,Self Employed,1559914,526,POOR,1,68478.43,0,0,0.0,1
+263,Sarah Miller,Female,Pune,Maharashtra,Freelancer,1486821,488,POOR,1,111223.73,0,0,0.0,0
+264,Manoj Nair,Female,Chennai,Tamil Nadu,Self Employed,2134590,420,POOR,0,0.0,0,2,178753.98,1
+265,Richard Chatterjee,Male,Mumbai,Maharashtra,Salaried - Private,2445198,395,POOR,4,167632.69,1,0,0.0,1
+266,Deepak Mehta,Female,Indore,Madhya Pradesh,Freelancer,1514764,542,POOR,1,6437.4,1,0,0.0,1
+267,Kiran Williams,Female,Nagpur,Maharashtra,Student,2674184,343,POOR,3,39094.11,1,1,356289.48,1
+268,Mary Menon,Female,Delhi,Delhi,Salaried - Private,2336731,846,EXCELLENT,2,111240.7,2,1,656005.63,0
+269,Meera Nair,Male,Chennai,Tamil Nadu,Student,454707,383,POOR,1,30863.79,3,0,0.0,1
+270,Sarah Miller,Female,Bhopal,Madhya Pradesh,Student,2287661,681,FAIR,1,111720.91,2,0,0.0,1
+271,John Chopra,Female,Lucknow,Uttar Pradesh,Freelancer,769263,765,EXCELLENT,2,101300.34,4,0,0.0,1
+272,Robert Mehta,Female,Jaipur,Rajasthan,Salaried - Private,2459091,352,POOR,0,0.0,1,0,0.0,0
+273,Joseph Jones,Female,Indore,Madhya Pradesh,Student,2381327,307,POOR,0,0.0,1,0,0.0,1
+274,Jennifer Malhotra,Female,Lucknow,Uttar Pradesh,Business Owner,2432708,574,POOR,2,25379.53,2,0,0.0,0
+275,Divya Patel,Female,Chandigarh,Punjab,Freelancer,3248086,379,POOR,3,130976.49,1,0,0.0,0
+276,Priya Jones,Male,Ahmedabad,Gujarat,Business Owner,2014707,595,POOR,1,21916.9,1,0,0.0,0
+277,David Jones,Male,Ahmedabad,Gujarat,Freelancer,783021,600,POOR,1,18203.08,0,0,0.0,0
+278,Meera Joshi,Female,Chennai,Tamil Nadu,Freelancer,1609442,807,EXCELLENT,1,19049.77,0,0,0.0,0
+279,Karen Martinez,Female,Ahmedabad,Gujarat,Freelancer,299088,490,POOR,2,32955.08,0,0,0.0,0
+280,Pooja Rodriguez,Other,Nagpur,Maharashtra,Retired,167609,789,EXCELLENT,2,137285.71,0,0,0.0,0
+281,Jessica Singh,Male,Hyderabad,Telangana,Salaried - Government,1523616,400,POOR,1,55129.54,2,0,0.0,0
+282,Priya Malhotra,Female,Pune,Maharashtra,Salaried - Government,2322220,717,GOOD,0,0.0,0,0,0.0,1
+283,Rohan Williams,Female,Jaipur,Rajasthan,Salaried - Government,710447,581,POOR,0,0.0,0,1,1231572.74,0
+284,Ritu Mehta,Male,Bhopal,Madhya Pradesh,Retired,988668,451,POOR,1,13442.13,3,0,0.0,0
+285,Sanjay Reddy,Female,Indore,Madhya Pradesh,Business Owner,1956517,784,EXCELLENT,0,0.0,2,1,215316.06,0
+286,Vikram Reddy,Male,Jaipur,Rajasthan,Salaried - Private,1644887,418,POOR,2,158031.42,0,0,0.0,0
+287,Michael Williams,Female,Bhopal,Madhya Pradesh,Retired,2610817,590,POOR,2,15378.2,2,0,0.0,0
+288,Patricia Joshi,Male,Bengaluru,Karnataka,Salaried - Government,1863802,826,EXCELLENT,1,4365.07,0,0,0.0,0
+289,John Menon,Male,Kolkata,West Bengal,Retired,1775872,562,POOR,2,53288.91,1,0,0.0,2
+290,Vikram Gupta,Male,Kolkata,West Bengal,Salaried - Private,2687667,700,GOOD,0,0.0,1,1,622820.89,1
+291,Suresh Kapoor,Female,Chennai,Tamil Nadu,Salaried - Private,3464189,737,GOOD,0,0.0,3,0,0.0,0
+292,Patricia Patel,Female,Chandigarh,Punjab,Student,1404376,637,POOR,2,113684.09,0,0,0.0,0
+293,Sneha Gupta,Female,Nagpur,Maharashtra,Salaried - Private,2631285,633,POOR,5,194100.56,1,0,0.0,1
+294,Jessica Nair,Male,Chennai,Tamil Nadu,Business Owner,1770598,899,EXCELLENT,1,96482.38,0,1,258745.84,1
+295,Deepak Nair,Male,Delhi,Delhi,Salaried - Private,1133527,735,GOOD,1,67767.46,2,1,359686.07,0
+296,Jessica Desai,Male,Kochi,Kerala,Student,3378141,604,POOR,2,51477.02,1,1,1182891.07,0
+297,Pooja Nair,Male,Kochi,Kerala,Freelancer,573084,389,POOR,2,18095.99,0,0,0.0,1
+298,Meera Menon,Male,Indore,Madhya Pradesh,Retired,1239713,669,FAIR,3,138544.42,2,0,0.0,0
+299,Joseph Rodriguez,Female,Bengaluru,Karnataka,Salaried - Private,3480022,336,POOR,2,31255.99,2,0,0.0,0
+300,Jennifer Pillai,Male,Chandigarh,Punjab,Salaried - Government,488253,395,POOR,0,0.0,1,0,0.0,0
+301,Kiran Singh,Male,Chandigarh,Punjab,Salaried - Government,341283,582,POOR,2,136466.13,1,0,0.0,0
+302,Ritu Chatterjee,Female,Bhopal,Madhya Pradesh,Student,2617587,407,POOR,1,9172.64,1,0,0.0,0
+303,Elizabeth Nair,Male,Kochi,Kerala,Freelancer,2495949,846,EXCELLENT,1,9768.11,0,1,59585.6,0
+304,Richard Iyer,Male,Indore,Madhya Pradesh,Salaried - Government,2489791,324,POOR,3,183811.53,1,1,159253.9,0
+305,Priya Jones,Male,Ahmedabad,Gujarat,Retired,783361,653,FAIR,1,13969.06,1,0,0.0,0
+306,Karen Rodriguez,Male,Pune,Maharashtra,Salaried - Private,1493369,734,GOOD,1,2040.0,3,0,0.0,0
+307,Anita Williams,Female,Delhi,Delhi,Freelancer,1883579,413,POOR,2,25321.57,1,0,0.0,0
+308,Anjali Pillai,Female,Nagpur,Maharashtra,Salaried - Private,2005954,468,POOR,1,4718.9,0,1,629709.71,1
+309,Ritu Martinez,Male,Kochi,Kerala,Retired,3284840,335,POOR,2,170910.77,1,0,0.0,0
+310,Sarah Jones,Female,Mumbai,Maharashtra,Salaried - Government,3039306,741,GOOD,1,78359.04,0,0,0.0,2
+311,Rahul Chopra,Female,Hyderabad,Telangana,Self Employed,723808,709,GOOD,1,8854.94,1,0,0.0,1
+312,Arjun Johnson,Other,Bengaluru,Karnataka,Retired,3491769,845,EXCELLENT,0,0.0,1,0,0.0,3
+313,Anita Malhotra,Male,Chennai,Tamil Nadu,Freelancer,240172,389,POOR,4,122846.13,1,0,0.0,0
+314,Anjali Nair,Female,Lucknow,Uttar Pradesh,Salaried - Private,1025849,430,POOR,1,17695.27,0,0,0.0,0
+315,Rahul Chopra,Male,Ahmedabad,Gujarat,Self Employed,436478,743,GOOD,1,27438.97,2,0,0.0,0
+316,William Mehta,Male,Ahmedabad,Gujarat,Student,2026303,493,POOR,0,0.0,1,0,0.0,0
+317,Joseph Malhotra,Female,Kolkata,West Bengal,Business Owner,1727333,596,POOR,0,0.0,1,0,0.0,1
+318,Susan Singh,Female,Lucknow,Uttar Pradesh,Student,256296,885,EXCELLENT,3,194755.13,1,0,0.0,0
+319,Deepak Malhotra,Female,Chandigarh,Punjab,Retired,3150104,800,EXCELLENT,1,9911.98,0,1,434219.41,0
+320,Sneha Gupta,Male,Mumbai,Maharashtra,Self Employed,3145257,646,POOR,1,52151.09,1,0,0.0,0
+321,James Sharma,Male,Delhi,Delhi,Self Employed,2870907,335,POOR,3,68650.18,0,0,0.0,0
+322,Jessica Chatterjee,Male,Hyderabad,Telangana,Business Owner,2337953,855,EXCELLENT,0,0.0,0,1,1024171.26,0
+323,Arjun Martinez,Male,Kolkata,West Bengal,Retired,1295411,488,POOR,2,9206.23,0,0,0.0,1
+324,Charles Singh,Female,Indore,Madhya Pradesh,Student,2216187,767,EXCELLENT,2,132266.09,0,0,0.0,1
+325,Neha Jones,Female,Nagpur,Maharashtra,Salaried - Government,1588636,487,POOR,1,39556.74,0,1,76361.81,0
+326,Rahul Chatterjee,Female,Lucknow,Uttar Pradesh,Retired,2111264,687,FAIR,0,0.0,0,1,105875.06,1
+327,Patricia Martinez,Female,Mumbai,Maharashtra,Retired,2735064,692,FAIR,2,76279.88,2,0,0.0,1
+328,Suresh Chatterjee,Female,Pune,Maharashtra,Self Employed,3278630,842,EXCELLENT,1,37969.58,1,0,0.0,1
+329,Kavya Pillai,Female,Kolkata,West Bengal,Self Employed,2353328,506,POOR,2,70388.9,4,0,0.0,0
+330,Jessica Desai,Female,Jaipur,Rajasthan,Retired,3429201,650,FAIR,2,28687.9,0,1,436071.57,0
+331,Karen Kapoor,Male,Lucknow,Uttar Pradesh,Self Employed,1467716,822,EXCELLENT,1,83683.21,1,1,279555.43,1
+332,David Rao,Male,Delhi,Delhi,Retired,1047758,392,POOR,3,44001.28,2,0,0.0,0
+333,Sneha Patel,Male,Nagpur,Maharashtra,Student,1511447,735,GOOD,1,100242.07,2,0,0.0,1
+334,Pooja Williams,Female,Ahmedabad,Gujarat,Salaried - Private,1643370,306,POOR,0,0.0,0,0,0.0,0
+335,Rohan Singh,Male,Jaipur,Rajasthan,Student,1852058,734,GOOD,1,18470.21,0,0,0.0,1
+336,Sneha Miller,Male,Mumbai,Maharashtra,Business Owner,3201996,397,POOR,2,165507.91,1,0,0.0,0
+337,Sanjay Reddy,Female,Kochi,Kerala,Self Employed,1305803,522,POOR,1,20253.23,2,0,0.0,0
+338,Pooja Garcia,Female,Jaipur,Rajasthan,Student,1084047,433,POOR,0,0.0,2,0,0.0,0
+339,Sanjay Verma,Male,Bengaluru,Karnataka,Salaried - Private,1948729,781,EXCELLENT,2,39852.99,2,0,0.0,0
+340,Kiran Iyer,Female,Chennai,Tamil Nadu,Self Employed,347629,790,EXCELLENT,2,79421.97,3,1,686124.0,0
+341,Kavya Nair,Male,Hyderabad,Telangana,Salaried - Government,208242,714,GOOD,2,72595.75,0,0,0.0,0
+342,Elizabeth Jones,Male,Mumbai,Maharashtra,Self Employed,1466169,324,POOR,3,117410.47,1,0,0.0,0
+343,David Bose,Female,Indore,Madhya Pradesh,Freelancer,1618749,694,FAIR,1,2959.23,1,0,0.0,1
+344,Sanjay Martinez,Female,Kochi,Kerala,Retired,1635173,719,GOOD,0,0.0,2,0,0.0,0
+345,Robert Kapoor,Male,Nagpur,Maharashtra,Student,3170207,536,POOR,2,51294.78,2,0,0.0,1
+346,Barbara Miller,Male,Hyderabad,Telangana,Retired,1793059,533,POOR,1,30862.32,1,1,628762.92,2
+347,Ritu Kumar,Male,Jaipur,Rajasthan,Retired,2968441,337,POOR,1,5713.85,0,0,0.0,0
+348,David Malhotra,Female,Kolkata,West Bengal,Retired,1859028,432,POOR,1,17098.32,0,0,0.0,1
+349,Pooja Williams,Male,Ahmedabad,Gujarat,Student,2924364,841,EXCELLENT,6,360975.44,0,1,449701.49,0
+350,Rahul Singh,Female,Jaipur,Rajasthan,Student,896872,404,POOR,2,86028.07,2,0,0.0,0
+351,Thomas Smith,Female,Kolkata,West Bengal,Business Owner,2301052,454,POOR,0,0.0,1,0,0.0,0
+352,Barbara Bose,Male,Bhopal,Madhya Pradesh,Freelancer,2784973,525,POOR,0,0.0,2,1,42372.48,0
+353,Susan Gupta,Male,Mumbai,Maharashtra,Freelancer,493995,596,POOR,1,92076.88,2,0,0.0,1
+354,James Smith,Female,Delhi,Delhi,Student,3091039,386,POOR,2,95179.49,1,0,0.0,0
+355,Amit Kumar,Female,Nagpur,Maharashtra,Student,2199910,782,EXCELLENT,3,113777.53,3,0,0.0,1
+356,Sarah Kumar,Female,Nagpur,Maharashtra,Student,2900450,303,POOR,1,85856.53,3,0,0.0,1
+357,Michael Chopra,Male,Kochi,Kerala,Student,779208,374,POOR,1,68174.47,0,0,0.0,0
+358,Joseph Smith,Female,Hyderabad,Telangana,Student,1976884,720,GOOD,0,0.0,1,0,0.0,0
+359,Robert Joshi,Female,Kolkata,West Bengal,Freelancer,3266040,405,POOR,0,0.0,1,1,45453.13,0
+360,James Verma,Male,Mumbai,Maharashtra,Salaried - Government,1768968,308,POOR,1,28743.34,2,0,0.0,3
+361,Neha Malhotra,Female,Chennai,Tamil Nadu,Business Owner,2809985,843,EXCELLENT,0,0.0,2,1,38837.1,0
+362,Joseph Smith,Male,Chandigarh,Punjab,Student,577025,639,POOR,1,75210.01,0,0,0.0,1
+363,William Rao,Male,Hyderabad,Telangana,Freelancer,2012894,657,FAIR,2,58771.28,2,0,0.0,0
+364,Joseph Malhotra,Male,Ahmedabad,Gujarat,Salaried - Government,2079187,407,POOR,1,64276.52,0,0,0.0,1
+365,Manoj Kumar,Female,Pune,Maharashtra,Student,2414734,309,POOR,3,167159.74,1,0,0.0,0
+366,Rohan Davis,Female,Ahmedabad,Gujarat,Self Employed,2402215,892,EXCELLENT,0,0.0,1,0,0.0,0
+367,Rahul Brown,Male,Chandigarh,Punjab,Salaried - Private,2005944,400,POOR,1,44435.79,1,0,0.0,0
+368,Anita Rao,Female,Jaipur,Rajasthan,Business Owner,841872,347,POOR,2,140741.1,2,0,0.0,1
+369,Suresh Menon,Male,Jaipur,Rajasthan,Salaried - Government,2120151,886,EXCELLENT,1,73307.03,2,0,0.0,0
+370,Michael Johnson,Male,Nagpur,Maharashtra,Retired,1225191,471,POOR,1,53515.08,0,0,0.0,0
+371,Meera Menon,Female,Bengaluru,Karnataka,Freelancer,2177823,647,POOR,3,95585.38,0,0,0.0,1
+372,Kavya Smith,Female,Chennai,Tamil Nadu,Student,2688287,880,EXCELLENT,4,397066.91,0,1,227621.75,1
+373,Richard Martinez,Male,Lucknow,Uttar Pradesh,Business Owner,2857489,390,POOR,1,6968.37,1,0,0.0,2
+374,Deepak Pillai,Female,Ahmedabad,Gujarat,Retired,2637181,659,FAIR,3,112752.56,1,0,0.0,0
+375,Priya Iyer,Female,Indore,Madhya Pradesh,Retired,3401808,489,POOR,1,160196.19,0,1,195577.23,0
+376,Divya Joshi,Male,Mumbai,Maharashtra,Retired,1390784,870,EXCELLENT,4,161280.73,1,0,0.0,0
+377,Thomas Iyer,Female,Pune,Maharashtra,Business Owner,3163549,473,POOR,1,91980.26,0,1,719711.61,0
+378,Michael Davis,Male,Hyderabad,Telangana,Self Employed,3326931,761,EXCELLENT,0,0.0,1,0,0.0,0
+379,Charles Malhotra,Male,Kolkata,West Bengal,Salaried - Government,1490756,526,POOR,4,111082.03,2,0,0.0,2
+380,Priya Pillai,Male,Nagpur,Maharashtra,Retired,1710299,731,GOOD,2,26219.94,1,2,445957.83,1
+381,Patricia Gupta,Male,Ahmedabad,Gujarat,Retired,1029739,427,POOR,1,117080.32,1,0,0.0,1
+382,Linda Brown,Male,Kolkata,West Bengal,Salaried - Private,825859,389,POOR,1,12713.6,1,2,1149403.68,1
+383,Elizabeth Williams,Male,Delhi,Delhi,Salaried - Government,1356934,533,POOR,1,26274.84,0,0,0.0,0
+384,Thomas Garcia,Male,Kolkata,West Bengal,Freelancer,1464246,357,POOR,0,0.0,0,0,0.0,0
+385,William Smith,Female,Ahmedabad,Gujarat,Student,950391,868,EXCELLENT,0,0.0,1,1,690733.91,1
+386,Suresh Patel,Female,Jaipur,Rajasthan,Salaried - Private,507662,859,EXCELLENT,1,36115.13,0,0,0.0,0
+387,Kavya Kumar,Male,Lucknow,Uttar Pradesh,Freelancer,2875779,686,FAIR,1,47970.0,0,3,1193360.94,1
+388,Robert Kapoor,Male,Kolkata,West Bengal,Self Employed,2551014,712,GOOD,4,184576.57,0,1,1204874.45,1
+389,Susan Malhotra,Female,Delhi,Delhi,Self Employed,2748732,474,POOR,1,163523.33,0,0,0.0,1
+390,Kiran Sharma,Male,Delhi,Delhi,Salaried - Government,2750472,842,EXCELLENT,2,45393.39,0,0,0.0,2
+391,Manoj Verma,Female,Delhi,Delhi,Business Owner,1981373,835,EXCELLENT,2,104820.58,1,0,0.0,1
+392,Susan Patel,Female,Lucknow,Uttar Pradesh,Freelancer,2681619,711,GOOD,0,0.0,1,0,0.0,1
+393,David Bose,Male,Kochi,Kerala,Student,717768,580,POOR,1,30275.23,0,0,0.0,0
+394,Vikram Brown,Female,Nagpur,Maharashtra,Salaried - Government,1447127,553,POOR,0,0.0,3,0,0.0,1
+395,Rahul Smith,Male,Chennai,Tamil Nadu,Freelancer,1092027,752,EXCELLENT,0,0.0,2,0,0.0,1
+396,Anita Pillai,Male,Pune,Maharashtra,Business Owner,2488678,831,EXCELLENT,1,61103.18,1,0,0.0,0
+397,Rohan Iyer,Female,Lucknow,Uttar Pradesh,Freelancer,1193448,420,POOR,1,2323.8,0,0,0.0,0
+398,Priya Brown,Male,Mumbai,Maharashtra,Salaried - Government,268191,666,FAIR,2,96136.49,2,0,0.0,1
+399,Sneha Chopra,Male,Lucknow,Uttar Pradesh,Freelancer,2195670,451,POOR,2,92466.67,1,0,0.0,0
+400,Vikram Johnson,Female,Hyderabad,Telangana,Retired,1741199,735,GOOD,4,169690.67,3,0,0.0,0
+401,Susan Martinez,Female,Kochi,Kerala,Freelancer,1339942,300,POOR,1,4323.07,0,0,0.0,1
+402,Patricia Jones,Male,Lucknow,Uttar Pradesh,Retired,768381,309,POOR,1,2930.98,4,0,0.0,1
+403,Neha Kapoor,Male,Bhopal,Madhya Pradesh,Salaried - Private,171851,776,EXCELLENT,2,19754.25,1,0,0.0,0
+404,William Miller,Female,Kolkata,West Bengal,Salaried - Government,1959707,816,EXCELLENT,1,107189.82,0,0,0.0,0
+405,Vikram Kapoor,Male,Kochi,Kerala,Salaried - Government,2044919,724,GOOD,1,68059.91,0,0,0.0,0
+406,Pooja Williams,Other,Ahmedabad,Gujarat,Freelancer,1551535,676,FAIR,0,0.0,0,0,0.0,0
+407,Sanjay Garcia,Female,Lucknow,Uttar Pradesh,Freelancer,1251023,472,POOR,1,54123.82,2,2,1289019.49,0
+408,Pooja Rodriguez,Male,Hyderabad,Telangana,Salaried - Government,477643,475,POOR,0,0.0,1,1,190741.21,1
+409,Anita Malhotra,Female,Kolkata,West Bengal,Student,1419037,329,POOR,0,0.0,1,0,0.0,0
+410,Priya Johnson,Male,Kochi,Kerala,Freelancer,1376193,486,POOR,3,44921.46,1,0,0.0,0
+411,Sanjay Williams,Female,Hyderabad,Telangana,Salaried - Government,2624768,841,EXCELLENT,3,192511.47,2,0,0.0,1
+412,Kiran Miller,Female,Mumbai,Maharashtra,Salaried - Private,1382798,486,POOR,1,42173.93,2,1,422175.49,0
+413,Meera Desai,Male,Hyderabad,Telangana,Freelancer,265214,581,POOR,2,47767.92,0,1,359662.73,0
+414,Mary Miller,Female,Hyderabad,Telangana,Business Owner,1991261,515,POOR,1,4464.05,2,0,0.0,1
+415,Susan Kapoor,Male,Kolkata,West Bengal,Freelancer,1194888,768,EXCELLENT,0,0.0,1,0,0.0,0
+416,Anjali Smith,Female,Pune,Maharashtra,Business Owner,2381866,648,POOR,2,48984.51,1,0,0.0,1
+417,Neha Chatterjee,Male,Pune,Maharashtra,Business Owner,1876857,346,POOR,0,0.0,0,0,0.0,1
+418,Sarah Williams,Male,Chennai,Tamil Nadu,Retired,2676248,893,EXCELLENT,3,291018.7,0,0,0.0,0
+419,Sneha Martinez,Female,Kolkata,West Bengal,Self Employed,2289527,777,EXCELLENT,3,93770.95,4,0,0.0,1
+420,Deepak Singh,Male,Mumbai,Maharashtra,Freelancer,905008,480,POOR,0,0.0,0,1,314724.18,1
+421,Sanjay Malhotra,Female,Hyderabad,Telangana,Salaried - Private,1212204,526,POOR,3,104843.87,0,0,0.0,0
+422,Karen Malhotra,Male,Chennai,Tamil Nadu,Freelancer,2806301,389,POOR,2,40315.4,1,0,0.0,0
+423,Rahul Johnson,Male,Mumbai,Maharashtra,Self Employed,1838910,667,FAIR,1,23404.79,0,0,0.0,0
+424,Sanjay Miller,Male,Bengaluru,Karnataka,Business Owner,640264,789,EXCELLENT,2,44310.58,1,0,0.0,0
+425,Kavya Williams,Female,Chennai,Tamil Nadu,Salaried - Private,2989279,657,FAIR,1,38685.7,1,0,0.0,3
+426,Meera Kumar,Male,Delhi,Delhi,Business Owner,1039404,683,FAIR,0,0.0,0,0,0.0,0
+427,Charles Davis,Male,Bhopal,Madhya Pradesh,Business Owner,2269790,804,EXCELLENT,3,143843.14,1,1,512801.66,0
+428,Suresh Gupta,Female,Pune,Maharashtra,Salaried - Government,1785096,747,GOOD,2,53331.52,0,0,0.0,2
+429,Linda Nair,Female,Jaipur,Rajasthan,Freelancer,1066485,715,GOOD,4,107345.21,0,0,0.0,1
+430,Patricia Sharma,Female,Lucknow,Uttar Pradesh,Business Owner,414797,645,POOR,0,0.0,1,0,0.0,0
+431,Linda Iyer,Male,Kochi,Kerala,Business Owner,2638052,665,FAIR,0,0.0,0,0,0.0,0
+432,Divya Singh,Female,Jaipur,Rajasthan,Retired,2964752,733,GOOD,2,18023.77,0,0,0.0,0
+433,William Malhotra,Female,Jaipur,Rajasthan,Freelancer,2310402,683,FAIR,0,0.0,3,1,286378.52,0
+434,Charles Bose,Male,Bhopal,Madhya Pradesh,Freelancer,809662,828,EXCELLENT,0,0.0,2,0,0.0,1
+435,Jessica Jones,Male,Kochi,Kerala,Self Employed,1118734,384,POOR,2,95839.75,1,0,0.0,0
+436,Barbara Rao,Male,Bengaluru,Karnataka,Freelancer,2658464,698,FAIR,5,261410.09,0,0,0.0,1
+437,Linda Menon,Male,Bhopal,Madhya Pradesh,Salaried - Government,862475,483,POOR,4,165219.82,1,1,29560.39,0
+438,Rahul Nair,Male,Kolkata,West Bengal,Student,3000156,860,EXCELLENT,3,250775.55,3,0,0.0,0
+439,Kavya Kapoor,Female,Pune,Maharashtra,Student,808402,599,POOR,0,0.0,2,0,0.0,1
+440,Sarah Patel,Female,Lucknow,Uttar Pradesh,Self Employed,2765365,763,EXCELLENT,1,98526.6,1,0,0.0,0
+441,Arjun Martinez,Male,Indore,Madhya Pradesh,Business Owner,1192235,652,FAIR,1,27788.43,4,0,0.0,1
+442,Sneha Martinez,Female,Delhi,Delhi,Freelancer,1735957,507,POOR,3,309048.55,2,0,0.0,0
+443,Jennifer Chopra,Male,Mumbai,Maharashtra,Freelancer,2169801,864,EXCELLENT,0,0.0,1,0,0.0,0
+444,Divya Malhotra,Female,Nagpur,Maharashtra,Business Owner,1767160,380,POOR,1,24486.87,0,0,0.0,1
+445,Joseph Davis,Male,Jaipur,Rajasthan,Business Owner,2014462,659,FAIR,0,0.0,1,1,299430.59,1
+446,Manoj Chopra,Female,Bengaluru,Karnataka,Retired,2231030,720,GOOD,1,7303.25,1,1,168505.18,1
+447,Mary Davis,Male,Bhopal,Madhya Pradesh,Freelancer,2614365,786,EXCELLENT,1,12367.25,0,0,0.0,1
+448,Karen Malhotra,Female,Hyderabad,Telangana,Freelancer,2545469,841,EXCELLENT,1,500.74,0,1,55787.14,1
+449,Kiran Miller,Female,Chennai,Tamil Nadu,Retired,3119698,741,GOOD,0,0.0,1,0,0.0,0
+450,Charles Desai,Male,Chennai,Tamil Nadu,Salaried - Private,2580260,524,POOR,0,0.0,1,1,660932.92,0
+451,Manoj Kumar,Male,Jaipur,Rajasthan,Retired,3209121,859,EXCELLENT,1,12041.96,3,0,0.0,1
+452,Thomas Joshi,Male,Delhi,Delhi,Salaried - Government,1323591,708,GOOD,1,38436.09,0,1,313471.45,2
+453,Kavya Desai,Female,Hyderabad,Telangana,Business Owner,1602410,885,EXCELLENT,1,11722.02,2,1,969271.68,0
+454,Arjun Joshi,Male,Chennai,Tamil Nadu,Salaried - Government,882849,381,POOR,1,50280.63,1,1,420224.83,1
+455,David Garcia,Female,Mumbai,Maharashtra,Salaried - Private,1448709,825,EXCELLENT,2,132988.46,0,1,64601.58,1
+456,Kiran Kumar,Male,Bhopal,Madhya Pradesh,Freelancer,283268,894,EXCELLENT,1,48199.35,1,0,0.0,1
+457,Richard Sharma,Male,Mumbai,Maharashtra,Salaried - Government,2311886,868,EXCELLENT,3,48524.42,0,1,228966.8,0
+458,David Sharma,Female,Indore,Madhya Pradesh,Self Employed,2484498,635,POOR,1,4505.49,2,0,0.0,1
+459,Linda Malhotra,Female,Pune,Maharashtra,Retired,251987,427,POOR,1,70709.38,2,0,0.0,1
+460,Barbara Kumar,Male,Hyderabad,Telangana,Self Employed,544407,665,FAIR,0,0.0,0,0,0.0,1
+461,Meera Menon,Female,Pune,Maharashtra,Salaried - Private,2263160,465,POOR,0,0.0,1,0,0.0,0
+462,Neha Joshi,Female,Hyderabad,Telangana,Business Owner,1351208,349,POOR,0,0.0,2,1,730256.39,0
+463,Vikram Kumar,Female,Lucknow,Uttar Pradesh,Self Employed,464154,505,POOR,2,68952.04,2,0,0.0,0
+464,Charles Jones,Male,Pune,Maharashtra,Student,2756705,652,FAIR,1,87912.98,1,1,185830.33,1
+465,Elizabeth Chatterjee,Male,Ahmedabad,Gujarat,Self Employed,1862504,752,EXCELLENT,1,94965.67,3,0,0.0,0
+466,Mary Williams,Male,Bhopal,Madhya Pradesh,Salaried - Private,2333130,449,POOR,1,17227.1,2,0,0.0,1
+467,Pooja Bose,Female,Kolkata,West Bengal,Self Employed,1862279,523,POOR,0,0.0,1,0,0.0,1
+468,John Mehta,Male,Pune,Maharashtra,Retired,681778,736,GOOD,2,43540.71,1,1,118392.42,0
+469,Linda Jones,Male,Chandigarh,Punjab,Freelancer,840781,617,POOR,2,49472.28,2,1,226773.83,0
+470,Sneha Reddy,Male,Delhi,Delhi,Freelancer,1150614,782,EXCELLENT,1,5883.92,3,0,0.0,0
+471,Anita Garcia,Male,Mumbai,Maharashtra,Retired,3436032,763,EXCELLENT,2,71686.2,2,0,0.0,1
+472,Jessica Rodriguez,Female,Kolkata,West Bengal,Self Employed,1207480,738,GOOD,2,45506.42,0,0,0.0,1
+473,Arjun Davis,Male,Chennai,Tamil Nadu,Business Owner,2014059,349,POOR,1,44612.13,0,1,274513.0,0
+474,Vikram Sharma,Male,Mumbai,Maharashtra,Business Owner,1269945,806,EXCELLENT,1,104155.62,3,1,247876.75,0
+475,Richard Pillai,Female,Bhopal,Madhya Pradesh,Self Employed,3136233,782,EXCELLENT,1,16152.03,0,1,699587.21,0
+476,Pooja Miller,Female,Jaipur,Rajasthan,Student,547074,665,FAIR,1,23287.03,0,0,0.0,0
+477,Ajay Menon,Male,Nagpur,Maharashtra,Self Employed,1724929,446,POOR,2,29897.28,1,0,0.0,0
+478,Joseph Singh,Female,Ahmedabad,Gujarat,Salaried - Private,2225540,613,POOR,2,18740.9,3,1,630483.74,0
+479,Divya Verma,Male,Kolkata,West Bengal,Salaried - Private,2328775,451,POOR,1,75320.49,0,0,0.0,0
+480,Amit Malhotra,Female,Kochi,Kerala,Freelancer,1651263,809,EXCELLENT,2,41916.08,1,0,0.0,1
+481,Rohan Desai,Female,Pune,Maharashtra,Retired,1983452,813,EXCELLENT,0,0.0,0,0,0.0,0
+482,Sarah Miller,Female,Hyderabad,Telangana,Salaried - Private,3392707,486,POOR,1,37416.42,1,1,122885.51,0
+483,Neha Davis,Male,Bhopal,Madhya Pradesh,Salaried - Private,2612281,893,EXCELLENT,6,325315.13,1,1,170799.37,0
+484,Deepak Gupta,Female,Chennai,Tamil Nadu,Student,1187178,619,POOR,3,63714.8,0,0,0.0,0
+485,Michael Verma,Female,Nagpur,Maharashtra,Student,1280879,336,POOR,1,4033.77,0,1,211827.72,0
+486,Ajay Jones,Female,Chennai,Tamil Nadu,Salaried - Government,3202694,781,EXCELLENT,0,0.0,0,0,0.0,1
+487,William Chopra,Male,Kolkata,West Bengal,Salaried - Private,1518839,578,POOR,0,0.0,1,1,93159.66,0
+488,Arjun Johnson,Female,Nagpur,Maharashtra,Student,2455787,778,EXCELLENT,0,0.0,0,1,639140.44,0
+489,Sneha Jones,Female,Bengaluru,Karnataka,Freelancer,1768111,718,GOOD,0,0.0,1,0,0.0,1
+490,Jessica Johnson,Female,Indore,Madhya Pradesh,Salaried - Government,1996442,413,POOR,0,0.0,2,0,0.0,0
+491,Rahul Reddy,Female,Mumbai,Maharashtra,Retired,2514579,442,POOR,4,257780.29,1,1,350606.52,0
+492,Kiran Gupta,Female,Bengaluru,Karnataka,Student,1756632,454,POOR,1,19883.04,1,0,0.0,0
+493,Manoj Menon,Female,Jaipur,Rajasthan,Self Employed,315673,715,GOOD,1,19077.42,2,0,0.0,0
+494,Susan Bose,Female,Jaipur,Rajasthan,Salaried - Private,1110140,476,POOR,2,162061.93,2,0,0.0,0
+495,Thomas Martinez,Male,Nagpur,Maharashtra,Business Owner,1333717,809,EXCELLENT,1,33613.63,1,1,234347.41,0
+496,Rohan Sharma,Male,Indore,Madhya Pradesh,Business Owner,2585040,731,GOOD,0,0.0,2,0,0.0,2
+497,William Smith,Male,Chandigarh,Punjab,Salaried - Private,643680,890,EXCELLENT,1,92561.14,0,0,0.0,0
+498,Kiran Singh,Female,Lucknow,Uttar Pradesh,Freelancer,3313948,841,EXCELLENT,4,68775.79,2,0,0.0,1
+499,James Brown,Female,Chennai,Tamil Nadu,Salaried - Private,2872742,600,POOR,0,0.0,1,0,0.0,0
+500,Sneha Reddy,Male,Kochi,Kerala,Retired,2756845,381,POOR,0,0.0,0,0,0.0,0
+501,Barbara Rao,Female,Lucknow,Uttar Pradesh,Business Owner,1670749,536,POOR,0,0.0,2,0,0.0,0
+502,Thomas Gupta,Male,Mumbai,Maharashtra,Freelancer,2843651,691,FAIR,2,62963.63,1,0,0.0,1
+503,Michael Desai,Female,Kochi,Kerala,Retired,2289291,338,POOR,0,0.0,1,0,0.0,0
+504,Mary Garcia,Male,Hyderabad,Telangana,Business Owner,2537962,746,GOOD,4,195902.61,1,0,0.0,0
+505,Sneha Rodriguez,Female,Ahmedabad,Gujarat,Student,459862,389,POOR,1,9487.58,0,0,0.0,0
+506,Divya Garcia,Male,Ahmedabad,Gujarat,Student,1592093,669,FAIR,0,0.0,0,0,0.0,1
+507,Robert Patel,Male,Kochi,Kerala,Salaried - Private,3145093,797,EXCELLENT,1,92169.5,3,0,0.0,0
+508,Patricia Kapoor,Female,Chennai,Tamil Nadu,Retired,582200,824,EXCELLENT,1,52554.01,0,0,0.0,1
+509,Elizabeth Johnson,Female,Hyderabad,Telangana,Business Owner,483805,694,FAIR,0,0.0,0,0,0.0,1
+510,Patricia Martinez,Male,Mumbai,Maharashtra,Student,1187231,473,POOR,1,66339.52,2,0,0.0,0
+511,Sarah Johnson,Male,Hyderabad,Telangana,Retired,503798,537,POOR,1,24286.75,2,0,0.0,2
+512,Elizabeth Singh,Male,Pune,Maharashtra,Self Employed,3320468,354,POOR,2,122910.81,2,1,700279.97,0
+513,Anita Chopra,Male,Jaipur,Rajasthan,Retired,1998095,634,POOR,1,1319.31,3,0,0.0,1
+514,Vikram Mehta,Female,Nagpur,Maharashtra,Salaried - Government,302155,817,EXCELLENT,0,0.0,4,0,0.0,0
+515,Richard Sharma,Male,Kolkata,West Bengal,Business Owner,1818727,500,POOR,0,0.0,2,0,0.0,2
+516,Anjali Singh,Female,Nagpur,Maharashtra,Self Employed,2394919,495,POOR,1,20545.11,0,2,966623.26,0
+517,Anita Brown,Female,Indore,Madhya Pradesh,Salaried - Government,1170043,625,POOR,1,13822.7,4,1,137023.72,0
+518,James Singh,Female,Mumbai,Maharashtra,Student,1293958,313,POOR,1,140440.95,0,1,620394.74,1
+519,Sarah Chatterjee,Male,Ahmedabad,Gujarat,Salaried - Private,2102827,469,POOR,0,0.0,1,0,0.0,1
+520,Arjun Patel,Female,Ahmedabad,Gujarat,Business Owner,561747,603,POOR,0,0.0,0,0,0.0,0
+521,Charles Kumar,Other,Hyderabad,Telangana,Self Employed,924251,888,EXCELLENT,0,0.0,0,0,0.0,0
+522,Rohan Gupta,Female,Kochi,Kerala,Salaried - Government,2864820,692,FAIR,1,55154.8,1,0,0.0,0
+523,Pooja Iyer,Male,Hyderabad,Telangana,Salaried - Government,645598,380,POOR,1,39950.77,1,0,0.0,0
+524,Vikram Kapoor,Male,Mumbai,Maharashtra,Freelancer,2278323,379,POOR,3,89292.79,0,0,0.0,0
+525,Jennifer Martinez,Male,Jaipur,Rajasthan,Student,1211843,899,EXCELLENT,1,20756.56,2,0,0.0,1
+526,Kavya Pillai,Female,Bengaluru,Karnataka,Business Owner,1294053,391,POOR,1,94694.35,0,0,0.0,0
+527,Jennifer Patel,Female,Hyderabad,Telangana,Student,2062807,804,EXCELLENT,3,216325.71,2,0,0.0,1
+528,Arjun Rao,Female,Ahmedabad,Gujarat,Business Owner,160491,736,GOOD,1,197994.77,1,0,0.0,0
+529,Kavya Brown,Male,Chandigarh,Punjab,Freelancer,3384992,334,POOR,0,0.0,0,0,0.0,2
+530,Ritu Chatterjee,Female,Chennai,Tamil Nadu,Self Employed,2906917,586,POOR,1,15535.28,0,2,1051000.03,0
+531,Meera Patel,Female,Hyderabad,Telangana,Retired,2688307,341,POOR,1,10013.36,1,0,0.0,1
+532,Robert Miller,Female,Pune,Maharashtra,Freelancer,1393480,750,EXCELLENT,0,0.0,1,0,0.0,0
+533,Ajay Martinez,Female,Hyderabad,Telangana,Salaried - Government,1752832,660,FAIR,1,31439.18,1,0,0.0,1
+534,Elizabeth Williams,Male,Jaipur,Rajasthan,Business Owner,2328041,510,POOR,1,73131.36,1,0,0.0,0
+535,James Garcia,Female,Lucknow,Uttar Pradesh,Student,3049481,893,EXCELLENT,1,63065.0,0,0,0.0,0
+536,Ritu Mehta,Male,Chennai,Tamil Nadu,Self Employed,2731512,501,POOR,1,6361.89,0,0,0.0,0
+537,Deepak Chatterjee,Female,Mumbai,Maharashtra,Freelancer,3233061,884,EXCELLENT,1,22391.08,2,0,0.0,0
+538,John Verma,Female,Jaipur,Rajasthan,Freelancer,3013112,567,POOR,2,39595.89,1,0,0.0,1
+539,Charles Williams,Female,Lucknow,Uttar Pradesh,Salaried - Government,1364965,594,POOR,0,0.0,2,0,0.0,0
+540,Meera Kapoor,Male,Pune,Maharashtra,Retired,2287553,875,EXCELLENT,1,25337.78,0,0,0.0,0
+541,Rahul Pillai,Male,Ahmedabad,Gujarat,Business Owner,1292930,772,EXCELLENT,2,54334.81,3,1,265339.25,1
+542,Charles Jones,Male,Pune,Maharashtra,Business Owner,2773201,412,POOR,4,265510.59,0,0,0.0,0
+543,Sanjay Pillai,Male,Kolkata,West Bengal,Salaried - Government,1397520,368,POOR,4,144083.85,1,0,0.0,0
+544,Joseph Verma,Female,Lucknow,Uttar Pradesh,Business Owner,2840468,767,EXCELLENT,0,0.0,1,0,0.0,0
+545,Barbara Nair,Male,Chandigarh,Punjab,Retired,2753508,795,EXCELLENT,1,10536.33,3,0,0.0,1
+546,Charles Desai,Female,Chandigarh,Punjab,Salaried - Government,476770,455,POOR,2,88185.11,2,1,57128.22,1
+547,Suresh Joshi,Male,Bhopal,Madhya Pradesh,Freelancer,1977983,470,POOR,1,10861.67,0,1,532877.08,1
+548,Barbara Rodriguez,Male,Bengaluru,Karnataka,Freelancer,2997182,589,POOR,2,219238.99,3,0,0.0,2
+549,Sneha Mehta,Female,Kochi,Kerala,Salaried - Private,2918032,620,POOR,0,0.0,0,0,0.0,0
+550,Manoj Menon,Male,Hyderabad,Telangana,Salaried - Government,396382,884,EXCELLENT,1,93738.03,0,0,0.0,2
+551,Mary Patel,Female,Hyderabad,Telangana,Business Owner,2094700,343,POOR,1,22627.41,2,0,0.0,0
+552,Vikram Rao,Male,Bhopal,Madhya Pradesh,Salaried - Private,1347528,531,POOR,3,505323.32,1,0,0.0,0
+553,Anjali Mehta,Male,Chennai,Tamil Nadu,Retired,2654513,768,EXCELLENT,0,0.0,0,0,0.0,0
+554,Barbara Malhotra,Female,Pune,Maharashtra,Business Owner,2749618,550,POOR,1,56475.71,2,0,0.0,0
+555,Michael Iyer,Male,Chandigarh,Punjab,Salaried - Private,583142,515,POOR,1,8689.91,2,2,1346672.35,0
+556,Sanjay Sharma,Female,Lucknow,Uttar Pradesh,Salaried - Private,3115677,312,POOR,0,0.0,0,0,0.0,0
+557,Susan Garcia,Other,Jaipur,Rajasthan,Retired,1922983,403,POOR,1,1602.83,1,0,0.0,0
+558,Rahul Patel,Male,Delhi,Delhi,Retired,2533480,865,EXCELLENT,1,33555.0,2,0,0.0,0
+559,Anita Smith,Male,Lucknow,Uttar Pradesh,Self Employed,867386,636,POOR,3,60634.88,0,0,0.0,0
+560,Sneha Gupta,Male,Delhi,Delhi,Retired,2057173,632,POOR,5,192604.2,0,1,1041132.01,2
+561,Jessica Martinez,Male,Jaipur,Rajasthan,Salaried - Private,2456366,452,POOR,0,0.0,1,0,0.0,1
+562,Charles Chopra,Female,Ahmedabad,Gujarat,Business Owner,2544202,850,EXCELLENT,1,167940.8,2,0,0.0,0
+563,Mary Garcia,Female,Bhopal,Madhya Pradesh,Freelancer,2489892,784,EXCELLENT,1,24760.05,1,0,0.0,1
+564,Ritu Jones,Male,Indore,Madhya Pradesh,Salaried - Private,1123074,384,POOR,2,66940.95,1,1,38570.31,0
+565,Susan Nair,Male,Delhi,Delhi,Retired,1042502,715,GOOD,3,100273.78,1,0,0.0,0
+566,William Iyer,Male,Pune,Maharashtra,Business Owner,343013,681,FAIR,1,2083.63,1,0,0.0,0
+567,Mary Gupta,Female,Jaipur,Rajasthan,Freelancer,2593326,340,POOR,2,14693.75,0,0,0.0,0
+568,Deepak Johnson,Female,Indore,Madhya Pradesh,Business Owner,2868932,717,GOOD,4,279981.07,3,0,0.0,0
+569,Rahul Kumar,Male,Delhi,Delhi,Freelancer,492022,573,POOR,2,40606.69,1,0,0.0,0
+570,Sneha Chopra,Female,Ahmedabad,Gujarat,Retired,483924,499,POOR,1,11683.29,1,0,0.0,0
+571,Rohan Sharma,Female,Kolkata,West Bengal,Salaried - Government,996305,561,POOR,1,39291.55,1,1,725356.75,1
+572,Kiran Johnson,Male,Chennai,Tamil Nadu,Student,1001898,788,EXCELLENT,2,86175.96,2,1,645360.87,1
+573,Rahul Brown,Male,Lucknow,Uttar Pradesh,Self Employed,1919464,716,GOOD,0,0.0,1,0,0.0,0
+574,Kiran Gupta,Female,Chennai,Tamil Nadu,Freelancer,1062667,754,EXCELLENT,1,20586.92,1,0,0.0,0
+575,Anita Rao,Female,Ahmedabad,Gujarat,Self Employed,400201,461,POOR,3,95545.92,2,1,656942.57,0
+576,Patricia Martinez,Female,Kochi,Kerala,Salaried - Private,1819915,354,POOR,1,46556.25,0,0,0.0,0
+577,David Singh,Male,Hyderabad,Telangana,Salaried - Government,1212866,502,POOR,1,37335.52,2,0,0.0,1
+578,Susan Martinez,Male,Mumbai,Maharashtra,Salaried - Private,3282960,715,GOOD,1,45678.37,1,0,0.0,0
+579,Anjali Davis,Female,Nagpur,Maharashtra,Retired,2039006,441,POOR,4,95260.45,1,1,119685.52,2
+580,Neha Brown,Female,Chennai,Tamil Nadu,Freelancer,3153977,537,POOR,0,0.0,0,1,369073.21,0
+581,Linda Davis,Male,Bhopal,Madhya Pradesh,Freelancer,308673,429,POOR,3,196496.48,0,0,0.0,1
+582,Jennifer Chopra,Male,Bhopal,Madhya Pradesh,Self Employed,2243498,556,POOR,1,15585.86,0,0,0.0,0
+583,Charles Verma,Male,Ahmedabad,Gujarat,Business Owner,2699438,720,GOOD,1,81803.67,4,0,0.0,0
+584,Priya Miller,Male,Pune,Maharashtra,Student,2800302,745,GOOD,1,4353.2,2,0,0.0,1
+585,Sarah Jones,Male,Indore,Madhya Pradesh,Self Employed,2084570,506,POOR,0,0.0,2,0,0.0,0
+586,Susan Nair,Male,Chandigarh,Punjab,Freelancer,2703369,479,POOR,0,0.0,4,0,0.0,1
+587,Vikram Patel,Male,Kolkata,West Bengal,Retired,1199703,607,POOR,0,0.0,2,0,0.0,0
+588,Meera Joshi,Female,Kochi,Kerala,Salaried - Private,1466205,504,POOR,2,151157.0,1,1,143277.37,0
+589,Deepak Singh,Female,Bhopal,Madhya Pradesh,Business Owner,2662616,709,GOOD,0,0.0,0,0,0.0,0
+590,William Reddy,Male,Bhopal,Madhya Pradesh,Student,2659117,580,POOR,0,0.0,1,0,0.0,1
+591,Sanjay Reddy,Male,Delhi,Delhi,Self Employed,1274323,356,POOR,2,20697.36,4,1,421100.58,0
+592,Robert Reddy,Male,Lucknow,Uttar Pradesh,Student,484587,723,GOOD,0,0.0,3,0,0.0,1
+593,Patricia Patel,Male,Chennai,Tamil Nadu,Retired,2978166,875,EXCELLENT,3,50706.03,3,1,122458.19,0
+594,Charles Jones,Female,Pune,Maharashtra,Business Owner,2663253,844,EXCELLENT,1,7931.93,0,2,509410.05,0
+595,Barbara Smith,Female,Hyderabad,Telangana,Student,1881104,890,EXCELLENT,4,328381.13,2,0,0.0,1
+596,David Singh,Female,Pune,Maharashtra,Salaried - Government,801797,336,POOR,3,27677.07,0,0,0.0,1
+597,Vikram Singh,Female,Pune,Maharashtra,Business Owner,1682128,719,GOOD,2,65767.06,1,0,0.0,0
+598,Manoj Martinez,Male,Chandigarh,Punjab,Salaried - Private,2140231,757,EXCELLENT,3,116054.4,0,1,1370021.72,0
+599,Priya Rao,Male,Ahmedabad,Gujarat,Freelancer,2068624,836,EXCELLENT,2,119379.53,0,0,0.0,3
+600,James Patel,Male,Hyderabad,Telangana,Retired,2882825,433,POOR,0,0.0,0,0,0.0,2
+601,Meera Rao,Female,Delhi,Delhi,Freelancer,2624949,502,POOR,3,98287.61,0,0,0.0,0
+602,Neha Patel,Male,Bhopal,Madhya Pradesh,Salaried - Private,3469882,864,EXCELLENT,1,13445.35,1,0,0.0,0
+603,Sarah Mehta,Male,Lucknow,Uttar Pradesh,Student,2232158,537,POOR,0,0.0,1,0,0.0,0
+604,Thomas Davis,Female,Jaipur,Rajasthan,Salaried - Government,1423561,726,GOOD,1,17692.95,0,0,0.0,1
+605,Divya Bose,Male,Delhi,Delhi,Business Owner,2186968,593,POOR,1,67930.15,1,1,169669.63,0
+606,Kiran Johnson,Male,Pune,Maharashtra,Business Owner,3272828,721,GOOD,1,3051.65,2,0,0.0,1
+607,John Menon,Female,Pune,Maharashtra,Self Employed,3057463,849,EXCELLENT,1,75749.51,2,0,0.0,2
+608,Deepak Kapoor,Female,Mumbai,Maharashtra,Salaried - Government,2111866,856,EXCELLENT,2,45078.73,2,1,204051.06,1
+609,Sarah Gupta,Male,Indore,Madhya Pradesh,Business Owner,2453739,677,FAIR,2,222347.77,0,0,0.0,0
+610,Divya Chatterjee,Female,Hyderabad,Telangana,Salaried - Government,916077,880,EXCELLENT,1,10435.58,1,1,97427.71,0
+611,Mary Malhotra,Male,Lucknow,Uttar Pradesh,Business Owner,1573710,651,FAIR,3,53729.68,2,0,0.0,1
+612,Sarah Brown,Female,Indore,Madhya Pradesh,Salaried - Private,2453308,751,EXCELLENT,4,73622.44,1,0,0.0,3
+613,Amit Chatterjee,Male,Indore,Madhya Pradesh,Freelancer,476945,647,POOR,1,4114.81,1,1,458397.49,1
+614,Sarah Sharma,Male,Chennai,Tamil Nadu,Self Employed,2892919,679,FAIR,2,77028.08,0,1,722037.6,0
+615,John Verma,Male,Ahmedabad,Gujarat,Business Owner,971224,888,EXCELLENT,3,42547.16,2,0,0.0,0
+616,James Sharma,Male,Kolkata,West Bengal,Self Employed,2437873,489,POOR,0,0.0,0,1,604887.76,0
+617,Suresh Miller,Female,Mumbai,Maharashtra,Business Owner,691637,324,POOR,3,54631.66,1,0,0.0,1
+618,Kiran Williams,Female,Bhopal,Madhya Pradesh,Self Employed,251559,596,POOR,1,14843.47,1,1,532753.0,0
+619,Kavya Jones,Male,Jaipur,Rajasthan,Salaried - Government,1927595,339,POOR,0,0.0,0,0,0.0,0
+620,Meera Martinez,Male,Hyderabad,Telangana,Retired,1812248,531,POOR,4,169862.25,0,0,0.0,0
+621,Deepak Singh,Male,Jaipur,Rajasthan,Business Owner,3153795,327,POOR,4,71759.99,1,0,0.0,1
+622,William Gupta,Female,Bhopal,Madhya Pradesh,Salaried - Government,2064867,314,POOR,3,22476.1,1,4,3025535.23,0
+623,Amit Singh,Male,Mumbai,Maharashtra,Self Employed,2599766,778,EXCELLENT,0,0.0,1,0,0.0,0
+624,Karen Bose,Female,Lucknow,Uttar Pradesh,Student,3277468,863,EXCELLENT,2,41874.42,1,0,0.0,1
+625,Deepak Martinez,Female,Kochi,Kerala,Student,2086579,794,EXCELLENT,0,0.0,2,1,204260.28,0
+626,Amit Johnson,Male,Chandigarh,Punjab,Student,1616911,362,POOR,0,0.0,3,0,0.0,0
+627,Jennifer Mehta,Female,Lucknow,Uttar Pradesh,Self Employed,3374723,572,POOR,1,7010.25,3,0,0.0,0
+628,Priya Iyer,Female,Pune,Maharashtra,Salaried - Private,2225231,417,POOR,3,120570.54,0,0,0.0,1
+629,Anita Mehta,Female,Bhopal,Madhya Pradesh,Retired,3236920,433,POOR,0,0.0,1,0,0.0,2
+630,Karen Verma,Female,Bhopal,Madhya Pradesh,Freelancer,3439458,413,POOR,3,101855.94,1,0,0.0,1
+631,Joseph Malhotra,Female,Ahmedabad,Gujarat,Freelancer,3094474,864,EXCELLENT,1,5287.12,0,0,0.0,0
+632,Sneha Menon,Female,Jaipur,Rajasthan,Salaried - Government,2952028,803,EXCELLENT,3,34490.34,2,0,0.0,1
+633,Thomas Garcia,Male,Lucknow,Uttar Pradesh,Freelancer,2257730,364,POOR,0,0.0,1,0,0.0,0
+634,Divya Pillai,Male,Pune,Maharashtra,Retired,283085,511,POOR,0,0.0,1,1,899565.64,1
+635,Susan Chopra,Male,Bengaluru,Karnataka,Retired,1070328,653,FAIR,1,30369.94,0,0,0.0,1
+636,Thomas Pillai,Female,Bhopal,Madhya Pradesh,Salaried - Private,875613,532,POOR,2,224826.47,0,0,0.0,2
+637,Robert Davis,Female,Indore,Madhya Pradesh,Self Employed,3152697,870,EXCELLENT,0,0.0,1,0,0.0,1
+638,Patricia Sharma,Female,Chennai,Tamil Nadu,Salaried - Private,2842838,594,POOR,2,256214.03,0,1,82884.19,0
+639,Thomas Pillai,Male,Kolkata,West Bengal,Salaried - Private,1485824,314,POOR,1,219126.22,1,0,0.0,0
+640,Barbara Rodriguez,Male,Nagpur,Maharashtra,Student,185810,709,GOOD,0,0.0,2,0,0.0,0
+641,Rahul Menon,Female,Delhi,Delhi,Salaried - Government,2266580,521,POOR,4,383159.41,1,0,0.0,0
+642,Robert Brown,Male,Bengaluru,Karnataka,Retired,1379191,344,POOR,0,0.0,0,0,0.0,1
+643,Elizabeth Mehta,Male,Mumbai,Maharashtra,Student,1767846,479,POOR,2,59376.46,1,0,0.0,0
+644,Sneha Desai,Male,Bengaluru,Karnataka,Salaried - Government,1386915,823,EXCELLENT,3,225113.84,1,1,1555025.05,1
+645,Mary Reddy,Male,Lucknow,Uttar Pradesh,Retired,430484,740,GOOD,3,170170.44,2,0,0.0,0
+646,Anita Rodriguez,Male,Hyderabad,Telangana,Business Owner,2535868,845,EXCELLENT,2,76674.44,1,0,0.0,0
+647,Neha Rao,Female,Indore,Madhya Pradesh,Freelancer,2356090,607,POOR,2,45994.83,1,0,0.0,0
+648,Michael Kumar,Female,Nagpur,Maharashtra,Self Employed,2603905,302,POOR,2,159336.16,4,0,0.0,0
+649,Linda Sharma,Female,Nagpur,Maharashtra,Student,3110155,732,GOOD,0,0.0,1,0,0.0,0
+650,Susan Miller,Male,Chandigarh,Punjab,Business Owner,155138,693,FAIR,1,23648.89,0,0,0.0,1
+651,John Kapoor,Male,Chandigarh,Punjab,Freelancer,3462775,643,POOR,1,22107.08,1,1,637503.68,0
+652,Deepak Davis,Female,Ahmedabad,Gujarat,Salaried - Private,2590273,870,EXCELLENT,3,141946.96,0,1,107547.28,0
+653,Arjun Rodriguez,Female,Indore,Madhya Pradesh,Business Owner,1752671,484,POOR,0,0.0,1,0,0.0,1
+654,Suresh Mehta,Female,Pune,Maharashtra,Student,2440817,804,EXCELLENT,2,53885.92,1,0,0.0,0
+655,Joseph Brown,Male,Chandigarh,Punjab,Student,1604949,792,EXCELLENT,0,0.0,1,0,0.0,0
+656,Sneha Kapoor,Male,Delhi,Delhi,Retired,933230,328,POOR,3,60475.11,0,0,0.0,0
+657,Charles Rodriguez,Male,Hyderabad,Telangana,Self Employed,3247995,620,POOR,2,499916.5,1,0,0.0,0
+658,James Martinez,Male,Bengaluru,Karnataka,Self Employed,590332,340,POOR,2,71222.41,1,0,0.0,2
+659,Thomas Rodriguez,Female,Lucknow,Uttar Pradesh,Student,486339,754,EXCELLENT,3,74555.9,1,0,0.0,0
+660,Divya Gupta,Male,Bhopal,Madhya Pradesh,Student,1261224,455,POOR,1,26234.72,2,0,0.0,1
+661,Robert Patel,Female,Pune,Maharashtra,Freelancer,1518509,768,EXCELLENT,4,114462.51,1,0,0.0,1
+662,John Iyer,Male,Lucknow,Uttar Pradesh,Business Owner,2013585,532,POOR,1,1929.43,0,0,0.0,0
+663,Mary Reddy,Female,Bengaluru,Karnataka,Student,949658,426,POOR,1,38790.93,0,0,0.0,0
+664,Deepak Menon,Male,Pune,Maharashtra,Business Owner,2948374,843,EXCELLENT,1,28746.92,2,0,0.0,1
+665,Karen Rodriguez,Male,Kolkata,West Bengal,Retired,394527,528,POOR,1,15806.22,3,0,0.0,1
+666,Amit Kapoor,Male,Jaipur,Rajasthan,Self Employed,2418244,724,GOOD,2,48675.31,0,1,596746.1,0
+667,Neha Kapoor,Male,Bengaluru,Karnataka,Self Employed,993647,451,POOR,1,26844.45,1,0,0.0,0
+668,David Martinez,Female,Hyderabad,Telangana,Business Owner,949795,357,POOR,1,39961.57,1,0,0.0,1
+669,Amit Verma,Male,Indore,Madhya Pradesh,Salaried - Private,2332801,315,POOR,3,179367.82,2,1,1122083.69,0
+670,Patricia Jones,Other,Hyderabad,Telangana,Business Owner,282098,345,POOR,2,139009.42,1,0,0.0,1
+671,Elizabeth Kapoor,Male,Indore,Madhya Pradesh,Salaried - Government,1661289,610,POOR,1,42013.44,0,0,0.0,0
+672,Pooja Joshi,Male,Kochi,Kerala,Freelancer,2145387,514,POOR,3,111259.55,1,0,0.0,0
+673,Manoj Jones,Male,Hyderabad,Telangana,Business Owner,169093,825,EXCELLENT,3,80267.24,1,0,0.0,0
+674,Jennifer Garcia,Male,Jaipur,Rajasthan,Salaried - Private,2573709,705,GOOD,0,0.0,0,0,0.0,0
+675,David Patel,Male,Chandigarh,Punjab,Retired,851620,474,POOR,2,50732.48,2,1,248024.27,0
+676,Karen Menon,Male,Kolkata,West Bengal,Salaried - Private,3383342,552,POOR,1,6804.89,0,0,0.0,0
+677,Vikram Pillai,Male,Kolkata,West Bengal,Self Employed,3244079,363,POOR,1,38669.18,1,0,0.0,0
+678,James Martinez,Female,Chennai,Tamil Nadu,Retired,1624792,697,FAIR,0,0.0,2,1,209722.32,0
+679,Vikram Kapoor,Male,Delhi,Delhi,Self Employed,2986172,598,POOR,1,82882.13,0,0,0.0,0
+680,Deepak Gupta,Female,Mumbai,Maharashtra,Business Owner,489089,569,POOR,1,4857.94,2,0,0.0,0
+681,Suresh Singh,Female,Hyderabad,Telangana,Retired,2926970,858,EXCELLENT,1,48069.89,6,1,755255.34,1
+682,Sanjay Mehta,Female,Bhopal,Madhya Pradesh,Business Owner,2863109,324,POOR,6,120089.58,1,0,0.0,0
+683,Vikram Menon,Female,Bengaluru,Karnataka,Retired,480111,355,POOR,0,0.0,2,0,0.0,2
+684,Michael Rao,Male,Delhi,Delhi,Freelancer,176048,766,EXCELLENT,4,99993.62,2,0,0.0,0
+685,Sneha Johnson,Male,Chennai,Tamil Nadu,Self Employed,1863141,654,FAIR,0,0.0,4,0,0.0,1
+686,Neha Brown,Male,Jaipur,Rajasthan,Salaried - Government,886609,877,EXCELLENT,0,0.0,0,0,0.0,0
+687,Elizabeth Iyer,Female,Bengaluru,Karnataka,Salaried - Government,2909139,613,POOR,3,152971.48,1,0,0.0,0
+688,Karen Miller,Male,Bengaluru,Karnataka,Business Owner,2145783,549,POOR,2,70281.89,1,1,150122.7,0
+689,Rohan Reddy,Male,Pune,Maharashtra,Salaried - Government,2931430,894,EXCELLENT,1,99953.57,1,1,287104.78,1
+690,Patricia Bose,Female,Chennai,Tamil Nadu,Salaried - Private,1504156,411,POOR,2,105090.85,2,0,0.0,0
+691,Michael Jones,Male,Bengaluru,Karnataka,Salaried - Private,3087050,301,POOR,1,38216.7,2,0,0.0,0
+692,Karen Reddy,Female,Kochi,Kerala,Salaried - Private,153417,444,POOR,1,7985.39,1,0,0.0,0
+693,Suresh Pillai,Male,Nagpur,Maharashtra,Self Employed,2669162,566,POOR,3,182643.95,0,0,0.0,0
+694,Jessica Menon,Male,Hyderabad,Telangana,Salaried - Private,1771120,480,POOR,2,204772.48,1,0,0.0,1
+695,Ritu Bose,Female,Pune,Maharashtra,Freelancer,362656,544,POOR,1,83817.6,0,0,0.0,0
+696,Elizabeth Malhotra,Male,Pune,Maharashtra,Retired,984527,729,GOOD,1,12432.18,1,0,0.0,1
+697,William Miller,Male,Chennai,Tamil Nadu,Student,2539719,697,FAIR,1,217321.94,1,1,723316.12,1
+698,Kiran Pillai,Male,Kolkata,West Bengal,Retired,2707880,329,POOR,1,247940.66,0,0,0.0,0
+699,Charles Miller,Male,Ahmedabad,Gujarat,Self Employed,2080068,793,EXCELLENT,3,197590.49,2,0,0.0,0
+700,Elizabeth Rao,Male,Chennai,Tamil Nadu,Salaried - Private,608314,716,GOOD,1,123063.72,1,0,0.0,0
+701,Rahul Patel,Female,Hyderabad,Telangana,Retired,3104686,313,POOR,0,0.0,1,0,0.0,0
+702,Arjun Verma,Male,Chennai,Tamil Nadu,Self Employed,1004631,831,EXCELLENT,0,0.0,1,0,0.0,1
+703,Robert Patel,Male,Ahmedabad,Gujarat,Self Employed,1821886,766,EXCELLENT,1,84622.92,0,0,0.0,0
+704,Ajay Singh,Male,Chandigarh,Punjab,Student,639962,632,POOR,4,241056.4,0,0,0.0,0
+705,Robert Chopra,Female,Mumbai,Maharashtra,Retired,2745988,882,EXCELLENT,1,94231.75,1,0,0.0,0
+706,James Iyer,Male,Ahmedabad,Gujarat,Salaried - Private,2974748,617,POOR,2,21586.26,0,1,89857.93,1
+707,Ritu Rao,Male,Lucknow,Uttar Pradesh,Freelancer,3145128,399,POOR,1,108345.34,1,0,0.0,0
+708,Jennifer Bose,Male,Chandigarh,Punjab,Student,2575006,680,FAIR,1,2126.29,1,1,242276.27,0
+709,Karen Malhotra,Female,Jaipur,Rajasthan,Salaried - Government,1175889,395,POOR,2,23692.67,1,0,0.0,2
+710,Kavya Davis,Female,Ahmedabad,Gujarat,Business Owner,3365195,591,POOR,1,14427.71,1,0,0.0,0
+711,Pooja Garcia,Male,Chandigarh,Punjab,Salaried - Government,1205671,427,POOR,2,95411.95,2,0,0.0,1
+712,Priya Johnson,Female,Hyderabad,Telangana,Freelancer,2835686,690,FAIR,1,22841.33,0,0,0.0,0
+713,Michael Mehta,Male,Jaipur,Rajasthan,Business Owner,2079515,695,FAIR,2,39305.04,0,0,0.0,0
+714,Manoj Patel,Male,Chennai,Tamil Nadu,Self Employed,1985787,378,POOR,0,0.0,1,0,0.0,0
+715,Arjun Jones,Female,Kolkata,West Bengal,Freelancer,2174900,416,POOR,0,0.0,0,0,0.0,1
+716,Karen Rodriguez,Male,Pune,Maharashtra,Salaried - Government,1870449,437,POOR,1,30762.92,1,0,0.0,1
+717,Vikram Rodriguez,Male,Hyderabad,Telangana,Retired,2671912,359,POOR,3,116603.21,1,0,0.0,0
+718,Deepak Iyer,Female,Delhi,Delhi,Salaried - Private,2172011,587,POOR,2,67631.85,1,0,0.0,0
+719,Kavya Miller,Female,Bengaluru,Karnataka,Salaried - Government,1994871,579,POOR,1,207016.71,1,0,0.0,0
+720,William Gupta,Female,Kolkata,West Bengal,Business Owner,3139017,531,POOR,0,0.0,0,0,0.0,2
+721,Ritu Williams,Male,Ahmedabad,Gujarat,Self Employed,1542043,892,EXCELLENT,1,24632.95,1,0,0.0,1
+722,Karen Miller,Male,Indore,Madhya Pradesh,Business Owner,2642858,503,POOR,2,63884.3,2,0,0.0,0
+723,Kiran Garcia,Female,Mumbai,Maharashtra,Business Owner,809380,492,POOR,1,1584.92,1,0,0.0,0
+724,Suresh Desai,Female,Nagpur,Maharashtra,Salaried - Private,972438,373,POOR,2,24665.0,1,0,0.0,0
+725,Ajay Mehta,Female,Chennai,Tamil Nadu,Freelancer,3483448,851,EXCELLENT,5,99867.79,0,1,457235.07,0
+726,Jennifer Chopra,Male,Chandigarh,Punjab,Business Owner,2891745,406,POOR,0,0.0,0,0,0.0,0
+727,Ajay Williams,Male,Chandigarh,Punjab,Salaried - Private,1146195,816,EXCELLENT,0,0.0,1,1,172275.94,1
+728,Amit Menon,Other,Indore,Madhya Pradesh,Student,2357236,439,POOR,1,68423.19,2,0,0.0,0
+729,Manoj Williams,Male,Pune,Maharashtra,Salaried - Government,552400,542,POOR,1,95328.13,2,0,0.0,2
+730,Thomas Iyer,Female,Indore,Madhya Pradesh,Salaried - Private,1772676,583,POOR,0,0.0,0,0,0.0,1
+731,Arjun Pillai,Male,Mumbai,Maharashtra,Salaried - Government,3269543,529,POOR,2,134558.78,2,0,0.0,0
+732,Sneha Sharma,Female,Nagpur,Maharashtra,Salaried - Private,2484769,491,POOR,0,0.0,0,0,0.0,0
+733,David Smith,Male,Lucknow,Uttar Pradesh,Student,3223309,612,POOR,1,10374.6,2,0,0.0,0
+734,Michael Rao,Male,Ahmedabad,Gujarat,Salaried - Private,2404199,502,POOR,2,256148.52,1,1,86067.17,0
+735,Divya Verma,Male,Hyderabad,Telangana,Business Owner,2622425,751,EXCELLENT,0,0.0,1,1,463481.92,2
+736,Amit Brown,Female,Pune,Maharashtra,Student,3325829,805,EXCELLENT,2,96027.58,2,0,0.0,0
+737,Sanjay Kumar,Male,Kochi,Kerala,Student,2010840,389,POOR,1,14981.58,2,0,0.0,0
+738,Sneha Nair,Male,Chandigarh,Punjab,Salaried - Government,727071,544,POOR,3,224222.85,0,0,0.0,0
+739,Linda Brown,Male,Indore,Madhya Pradesh,Student,319432,507,POOR,0,0.0,0,0,0.0,1
+740,Sneha Pillai,Male,Chandigarh,Punjab,Business Owner,910650,690,FAIR,1,12964.99,0,0,0.0,1
+741,James Sharma,Female,Indore,Madhya Pradesh,Business Owner,2119670,811,EXCELLENT,2,130331.19,0,0,0.0,0
+742,Linda Malhotra,Female,Nagpur,Maharashtra,Student,1448935,480,POOR,1,7139.74,1,0,0.0,2
+743,Amit Chatterjee,Male,Kolkata,West Bengal,Salaried - Private,3066465,718,GOOD,4,98918.08,0,1,1254322.61,2
+744,Jessica Joshi,Female,Chandigarh,Punjab,Salaried - Government,2362508,890,EXCELLENT,1,94132.31,2,0,0.0,1
+745,Divya Gupta,Female,Bengaluru,Karnataka,Freelancer,2255473,522,POOR,1,30356.62,0,0,0.0,0
+746,Charles Miller,Other,Bhopal,Madhya Pradesh,Retired,1266183,794,EXCELLENT,1,104955.15,0,0,0.0,0
+747,Arjun Bose,Female,Lucknow,Uttar Pradesh,Self Employed,2499862,721,GOOD,2,61672.46,1,0,0.0,1
+748,Neha Smith,Female,Kolkata,West Bengal,Student,3188374,301,POOR,0,0.0,1,0,0.0,0
+749,John Johnson,Male,Lucknow,Uttar Pradesh,Student,2226350,532,POOR,3,84327.39,1,0,0.0,1
+750,Kiran Chopra,Male,Chennai,Tamil Nadu,Salaried - Private,1409329,582,POOR,0,0.0,0,0,0.0,0
+751,Sarah Miller,Female,Lucknow,Uttar Pradesh,Salaried - Government,2831845,853,EXCELLENT,1,163986.7,1,0,0.0,0
+752,Patricia Bose,Female,Ahmedabad,Gujarat,Retired,2210950,543,POOR,0,0.0,3,0,0.0,0
+753,Arjun Gupta,Male,Chennai,Tamil Nadu,Business Owner,657953,730,GOOD,2,80643.87,0,0,0.0,1
+754,Kiran Martinez,Male,Indore,Madhya Pradesh,Self Employed,434899,595,POOR,0,0.0,4,0,0.0,0
+755,Suresh Reddy,Female,Mumbai,Maharashtra,Student,578369,730,GOOD,2,46270.98,2,0,0.0,0
+756,Suresh Nair,Female,Bhopal,Madhya Pradesh,Salaried - Private,1508375,784,EXCELLENT,2,17686.74,0,1,61913.99,0
+757,William Davis,Male,Bengaluru,Karnataka,Freelancer,855949,572,POOR,0,0.0,0,0,0.0,1
+758,Jessica Gupta,Male,Bengaluru,Karnataka,Salaried - Government,2037529,855,EXCELLENT,3,281798.72,1,0,0.0,0
+759,Rohan Iyer,Female,Delhi,Delhi,Retired,2502450,865,EXCELLENT,0,0.0,0,0,0.0,1
+760,Priya Kapoor,Female,Pune,Maharashtra,Freelancer,306391,637,POOR,4,199567.78,2,0,0.0,0
+761,Patricia Nair,Male,Pune,Maharashtra,Salaried - Private,940169,596,POOR,0,0.0,1,1,164904.84,2
+762,David Desai,Female,Kochi,Kerala,Freelancer,994749,659,FAIR,2,108038.93,0,0,0.0,2
+763,William Menon,Female,Nagpur,Maharashtra,Salaried - Private,1677574,338,POOR,0,0.0,1,0,0.0,0
+764,Anita Kumar,Female,Jaipur,Rajasthan,Salaried - Private,2637478,600,POOR,1,60023.15,2,0,0.0,0
+765,David Mehta,Female,Mumbai,Maharashtra,Business Owner,3092780,569,POOR,2,34492.67,0,0,0.0,0
+766,Manoj Reddy,Male,Kochi,Kerala,Salaried - Private,832870,601,POOR,1,32298.41,0,0,0.0,0
+767,Anita Nair,Female,Lucknow,Uttar Pradesh,Freelancer,1989738,356,POOR,3,91791.63,1,0,0.0,0
+768,James Chopra,Female,Ahmedabad,Gujarat,Self Employed,650308,354,POOR,0,0.0,1,0,0.0,0
+769,Divya Gupta,Male,Indore,Madhya Pradesh,Freelancer,1783371,706,GOOD,2,62453.74,1,0,0.0,0
+770,Anjali Kumar,Male,Kolkata,West Bengal,Retired,1537898,338,POOR,2,24617.98,2,0,0.0,1
+771,Richard Verma,Male,Hyderabad,Telangana,Salaried - Government,2162086,843,EXCELLENT,0,0.0,2,2,1354158.23,0
+772,Rohan Johnson,Male,Bhopal,Madhya Pradesh,Business Owner,486149,615,POOR,5,307556.56,0,0,0.0,0
+773,William Miller,Female,Ahmedabad,Gujarat,Retired,1560123,307,POOR,0,0.0,1,1,62280.09,0
+774,Vikram Malhotra,Female,Chandigarh,Punjab,Salaried - Government,3321176,798,EXCELLENT,3,87677.48,3,0,0.0,0
+775,Anita Martinez,Male,Chandigarh,Punjab,Freelancer,250369,691,FAIR,2,56481.37,0,0,0.0,0
+776,Karen Joshi,Male,Kochi,Kerala,Retired,3191462,387,POOR,2,113951.72,2,0,0.0,1
+777,Linda Malhotra,Female,Chennai,Tamil Nadu,Salaried - Private,1652456,838,EXCELLENT,2,173604.48,1,0,0.0,1
+778,Elizabeth Williams,Male,Pune,Maharashtra,Student,1284473,424,POOR,1,43287.78,2,0,0.0,0
+779,Jennifer Chatterjee,Female,Ahmedabad,Gujarat,Salaried - Private,692310,802,EXCELLENT,0,0.0,1,0,0.0,0
+780,Jessica Mehta,Female,Lucknow,Uttar Pradesh,Salaried - Government,967616,590,POOR,2,119438.82,0,0,0.0,0
+781,James Kapoor,Male,Kochi,Kerala,Freelancer,982536,828,EXCELLENT,1,35428.01,1,0,0.0,0
+782,Anita Smith,Male,Chennai,Tamil Nadu,Student,348760,664,FAIR,0,0.0,0,0,0.0,1
+783,Joseph Verma,Other,Bhopal,Madhya Pradesh,Salaried - Government,2481987,489,POOR,0,0.0,1,0,0.0,1
+784,Sarah Nair,Male,Kochi,Kerala,Retired,644479,464,POOR,2,55474.13,1,0,0.0,0
+785,Divya Iyer,Male,Kochi,Kerala,Self Employed,1142042,304,POOR,1,24515.65,3,1,547417.07,1
+786,Amit Rao,Male,Kochi,Kerala,Salaried - Private,590533,684,FAIR,1,24014.31,0,0,0.0,0
+787,Ajay Nair,Female,Indore,Madhya Pradesh,Freelancer,1506944,375,POOR,1,62606.53,0,0,0.0,0
+788,Mary Davis,Female,Lucknow,Uttar Pradesh,Freelancer,1107240,810,EXCELLENT,1,74999.1,0,0,0.0,0
+789,Mary Nair,Male,Hyderabad,Telangana,Business Owner,1269361,374,POOR,2,54123.39,4,0,0.0,0
+790,Rahul Brown,Male,Kolkata,West Bengal,Retired,553311,850,EXCELLENT,1,57624.12,2,0,0.0,1
+791,Manoj Mehta,Female,Bhopal,Madhya Pradesh,Salaried - Government,2622619,623,POOR,2,137434.33,1,0,0.0,0
+792,Priya Rodriguez,Male,Bengaluru,Karnataka,Business Owner,351480,859,EXCELLENT,1,33842.03,2,0,0.0,1
+793,Jessica Bose,Female,Lucknow,Uttar Pradesh,Freelancer,588471,849,EXCELLENT,1,23303.4,1,0,0.0,0
+794,Deepak Bose,Male,Jaipur,Rajasthan,Self Employed,2199266,463,POOR,0,0.0,1,0,0.0,0
+795,Barbara Rao,Male,Lucknow,Uttar Pradesh,Salaried - Government,1948599,361,POOR,2,106956.58,2,0,0.0,0
+796,Anita Nair,Female,Kolkata,West Bengal,Student,641650,507,POOR,0,0.0,2,0,0.0,1
+797,Meera Verma,Female,Bhopal,Madhya Pradesh,Salaried - Private,2958414,418,POOR,1,57791.65,0,0,0.0,3
+798,Mary Martinez,Female,Pune,Maharashtra,Salaried - Government,1654731,886,EXCELLENT,1,37789.49,0,2,1378163.07,1
+799,Divya Kumar,Female,Bhopal,Madhya Pradesh,Salaried - Government,464052,300,POOR,0,0.0,1,0,0.0,0
+800,Manoj Chatterjee,Other,Kochi,Kerala,Student,555064,388,POOR,1,7882.92,0,0,0.0,1
+801,Anita Garcia,Other,Nagpur,Maharashtra,Business Owner,1351888,537,POOR,2,13771.18,0,0,0.0,3
+802,Kiran Joshi,Male,Nagpur,Maharashtra,Business Owner,1358260,526,POOR,1,62342.75,0,0,0.0,3
+803,Linda Nair,Female,Hyderabad,Telangana,Retired,2737199,422,POOR,1,26781.16,1,1,1671290.96,0
+804,Vikram Mehta,Female,Mumbai,Maharashtra,Retired,1107923,758,EXCELLENT,0,0.0,1,1,417053.0,1
+805,Suresh Williams,Male,Lucknow,Uttar Pradesh,Retired,194315,826,EXCELLENT,1,26199.4,2,0,0.0,0
+806,Jessica Garcia,Male,Pune,Maharashtra,Self Employed,1496394,625,POOR,1,33769.41,1,0,0.0,0
+807,David Smith,Male,Chennai,Tamil Nadu,Business Owner,652787,655,FAIR,1,7518.4,2,0,0.0,0
+808,Priya Nair,Female,Chandigarh,Punjab,Freelancer,3273078,439,POOR,2,98019.34,1,0,0.0,0
+809,Priya Brown,Female,Jaipur,Rajasthan,Self Employed,506071,659,FAIR,2,237161.26,5,0,0.0,0
+810,Suresh Martinez,Male,Lucknow,Uttar Pradesh,Salaried - Government,2890166,496,POOR,4,163555.64,2,0,0.0,0
+811,Joseph Nair,Female,Bhopal,Madhya Pradesh,Student,433607,354,POOR,0,0.0,0,1,569163.28,0
+812,Patricia Williams,Male,Delhi,Delhi,Retired,1041659,322,POOR,7,258042.84,1,0,0.0,0
+813,Ritu Chopra,Female,Bhopal,Madhya Pradesh,Salaried - Private,425247,757,EXCELLENT,4,239657.0,0,0,0.0,0
+814,John Menon,Male,Jaipur,Rajasthan,Business Owner,567184,530,POOR,0,0.0,0,0,0.0,0
+815,Linda Bose,Male,Kolkata,West Bengal,Freelancer,1117121,492,POOR,0,0.0,1,1,587061.01,0
+816,Ritu Williams,Male,Kolkata,West Bengal,Self Employed,1601603,408,POOR,3,103489.07,3,0,0.0,1
+817,Rahul Nair,Male,Ahmedabad,Gujarat,Student,2801186,744,GOOD,0,0.0,1,0,0.0,2
+818,Michael Martinez,Female,Jaipur,Rajasthan,Freelancer,851499,526,POOR,1,1719.19,0,0,0.0,2
+819,Robert Martinez,Male,Hyderabad,Telangana,Salaried - Government,1223748,308,POOR,2,105097.06,4,0,0.0,0
+820,Kavya Rodriguez,Male,Bengaluru,Karnataka,Retired,2900038,777,EXCELLENT,1,31655.2,0,0,0.0,1
+821,Vikram Chopra,Female,Delhi,Delhi,Self Employed,3276637,626,POOR,0,0.0,1,0,0.0,0
+822,Deepak Rodriguez,Male,Hyderabad,Telangana,Retired,2662125,307,POOR,1,11897.41,0,1,29378.65,1
+823,Karen Nair,Male,Bengaluru,Karnataka,Salaried - Private,2555254,611,POOR,3,162387.97,0,0,0.0,0
+824,Elizabeth Miller,Male,Ahmedabad,Gujarat,Freelancer,582374,893,EXCELLENT,0,0.0,0,0,0.0,0
+825,John Sharma,Male,Nagpur,Maharashtra,Business Owner,3428212,861,EXCELLENT,4,146496.67,2,1,321535.4,0
+826,Kiran Reddy,Male,Pune,Maharashtra,Self Employed,807597,428,POOR,3,97867.2,1,0,0.0,0
+827,Robert Sharma,Female,Chennai,Tamil Nadu,Student,262282,860,EXCELLENT,3,161833.64,1,0,0.0,1
+828,Manoj Malhotra,Male,Mumbai,Maharashtra,Self Employed,357620,808,EXCELLENT,1,42099.73,2,0,0.0,1
+829,Vikram Martinez,Male,Indore,Madhya Pradesh,Student,1117302,646,POOR,2,33967.08,0,1,45935.13,0
+830,Kavya Miller,Female,Chandigarh,Punjab,Self Employed,3450093,413,POOR,1,16897.49,2,0,0.0,0
+831,Vikram Kumar,Female,Bengaluru,Karnataka,Salaried - Private,2297312,759,EXCELLENT,2,88760.17,0,0,0.0,0
+832,Rohan Malhotra,Male,Kolkata,West Bengal,Business Owner,2675292,526,POOR,0,0.0,2,1,129569.84,1
+833,Arjun Miller,Female,Chandigarh,Punjab,Salaried - Private,1198598,311,POOR,1,13833.21,1,0,0.0,0
+834,Elizabeth Reddy,Male,Indore,Madhya Pradesh,Student,1879033,840,EXCELLENT,5,311642.58,1,0,0.0,0
+835,Ajay Malhotra,Male,Jaipur,Rajasthan,Salaried - Government,314836,881,EXCELLENT,0,0.0,1,0,0.0,0
+836,Amit Menon,Female,Chennai,Tamil Nadu,Business Owner,369942,654,FAIR,1,125033.94,1,0,0.0,0
+837,William Malhotra,Female,Chandigarh,Punjab,Self Employed,2536719,480,POOR,4,132040.92,1,0,0.0,0
+838,Mary Nair,Female,Chandigarh,Punjab,Salaried - Private,1980052,349,POOR,4,126202.34,1,0,0.0,0
+839,Pooja Malhotra,Male,Lucknow,Uttar Pradesh,Self Employed,754227,531,POOR,1,65837.51,2,0,0.0,0
+840,Thomas Chatterjee,Male,Mumbai,Maharashtra,Self Employed,3254326,454,POOR,0,0.0,0,0,0.0,1
+841,Divya Malhotra,Male,Chandigarh,Punjab,Salaried - Private,1881465,850,EXCELLENT,3,96970.12,1,1,50563.17,0
+842,Neha Sharma,Male,Mumbai,Maharashtra,Self Employed,2130590,670,FAIR,1,96362.21,2,0,0.0,0
+843,Kiran Iyer,Female,Nagpur,Maharashtra,Self Employed,813489,865,EXCELLENT,0,0.0,2,0,0.0,0
+844,Anjali Kumar,Male,Nagpur,Maharashtra,Self Employed,2351877,431,POOR,0,0.0,2,0,0.0,1
+845,Pooja Rao,Male,Jaipur,Rajasthan,Self Employed,3429915,420,POOR,2,121163.91,3,0,0.0,1
+846,Linda Miller,Female,Lucknow,Uttar Pradesh,Retired,3439498,614,POOR,0,0.0,1,0,0.0,0
+847,Kavya Verma,Female,Pune,Maharashtra,Salaried - Private,2922800,414,POOR,0,0.0,0,1,931600.98,0
+848,Mary Williams,Male,Nagpur,Maharashtra,Freelancer,561699,568,POOR,1,48178.13,2,0,0.0,0
+849,Linda Miller,Male,Chennai,Tamil Nadu,Freelancer,2766595,440,POOR,0,0.0,3,0,0.0,2
+850,James Kumar,Female,Bengaluru,Karnataka,Freelancer,2074255,880,EXCELLENT,2,59035.06,2,0,0.0,0
+851,Anjali Jones,Female,Chandigarh,Punjab,Business Owner,1044454,774,EXCELLENT,1,82262.25,2,1,53854.44,1
+852,Manoj Kumar,Female,Indore,Madhya Pradesh,Salaried - Private,594477,382,POOR,0,0.0,0,1,175859.45,0
+853,Joseph Johnson,Male,Ahmedabad,Gujarat,Self Employed,1658610,591,POOR,0,0.0,1,0,0.0,1
+854,Joseph Reddy,Female,Ahmedabad,Gujarat,Retired,1506317,847,EXCELLENT,2,67420.39,0,0,0.0,0
+855,Richard Williams,Male,Jaipur,Rajasthan,Retired,1245247,618,POOR,4,303271.15,1,0,0.0,0
+856,Robert Chatterjee,Male,Chennai,Tamil Nadu,Retired,321993,826,EXCELLENT,2,78350.09,2,0,0.0,1
+857,Richard Singh,Male,Jaipur,Rajasthan,Salaried - Government,314422,824,EXCELLENT,1,7392.69,1,0,0.0,0
+858,Divya Kumar,Female,Indore,Madhya Pradesh,Self Employed,1509388,674,FAIR,2,90781.52,1,0,0.0,0
+859,Robert Rodriguez,Female,Hyderabad,Telangana,Salaried - Private,322330,674,FAIR,2,43923.62,0,0,0.0,0
+860,Robert Nair,Female,Bhopal,Madhya Pradesh,Self Employed,2485187,439,POOR,1,57599.03,0,0,0.0,0
+861,Elizabeth Kapoor,Female,Bhopal,Madhya Pradesh,Student,3012188,654,FAIR,2,150437.3,3,0,0.0,0
+862,Priya Rao,Female,Kochi,Kerala,Self Employed,781253,459,POOR,2,27290.08,1,0,0.0,0
+863,Deepak Chatterjee,Male,Chandigarh,Punjab,Business Owner,2501271,402,POOR,0,0.0,1,0,0.0,0
+864,Neha Malhotra,Female,Nagpur,Maharashtra,Student,1493278,322,POOR,1,13797.78,1,0,0.0,0
+865,Susan Mehta,Male,Chandigarh,Punjab,Retired,811610,691,FAIR,2,137781.02,3,0,0.0,0
+866,Anjali Miller,Male,Indore,Madhya Pradesh,Self Employed,1664072,716,GOOD,1,6936.87,1,3,1378901.28,2
+867,Anita Martinez,Male,Chandigarh,Punjab,Freelancer,2680482,479,POOR,2,35166.29,1,0,0.0,0
+868,Sarah Davis,Male,Kochi,Kerala,Salaried - Government,824985,642,POOR,3,50885.35,2,2,399155.09,0
+869,Ajay Davis,Female,Nagpur,Maharashtra,Freelancer,1233137,377,POOR,3,124687.01,0,0,0.0,1
+870,Arjun Rodriguez,Female,Indore,Madhya Pradesh,Business Owner,2214302,385,POOR,4,423309.91,1,0,0.0,1
+871,Amit Nair,Female,Jaipur,Rajasthan,Salaried - Private,318468,734,GOOD,2,33797.27,3,0,0.0,2
+872,James Kapoor,Male,Chandigarh,Punjab,Salaried - Private,2877015,375,POOR,2,7133.03,0,0,0.0,0
+873,Elizabeth Iyer,Male,Indore,Madhya Pradesh,Freelancer,2936551,347,POOR,0,0.0,0,1,1001920.44,0
+874,Rohan Joshi,Male,Hyderabad,Telangana,Retired,711468,642,POOR,2,47093.62,0,3,1246313.89,2
+875,Sneha Kapoor,Male,Pune,Maharashtra,Retired,363125,736,GOOD,6,290687.99,0,2,263421.43,0
+876,Charles Johnson,Male,Nagpur,Maharashtra,Freelancer,1433542,362,POOR,1,30430.74,1,0,0.0,0
+877,Charles Patel,Female,Lucknow,Uttar Pradesh,Self Employed,273004,443,POOR,1,48782.63,0,1,40107.76,0
+878,Richard Miller,Female,Kolkata,West Bengal,Retired,1170915,549,POOR,1,93070.35,1,0,0.0,0
+879,James Kapoor,Male,Chandigarh,Punjab,Business Owner,1280127,356,POOR,0,0.0,2,0,0.0,0
+880,Deepak Garcia,Female,Mumbai,Maharashtra,Business Owner,2463204,852,EXCELLENT,2,46202.29,3,0,0.0,0
+881,Robert Malhotra,Male,Ahmedabad,Gujarat,Self Employed,1148658,513,POOR,4,150385.74,0,0,0.0,2
+882,Arjun Williams,Male,Bengaluru,Karnataka,Salaried - Private,1215819,571,POOR,0,0.0,1,1,785537.67,1
+883,Neha Patel,Female,Chennai,Tamil Nadu,Student,304763,882,EXCELLENT,2,138514.18,1,0,0.0,0
+884,Amit Chopra,Female,Indore,Madhya Pradesh,Salaried - Private,3309430,605,POOR,2,54622.23,0,0,0.0,0
+885,Kavya Reddy,Female,Jaipur,Rajasthan,Retired,1343459,597,POOR,1,13629.86,0,0,0.0,0
+886,Jennifer Menon,Male,Delhi,Delhi,Student,2122843,421,POOR,0,0.0,2,0,0.0,0
+887,Joseph Miller,Female,Hyderabad,Telangana,Freelancer,2129240,457,POOR,2,95162.4,0,1,355231.81,1
+888,Arjun Kapoor,Female,Bengaluru,Karnataka,Retired,707184,874,EXCELLENT,1,118711.2,0,0,0.0,0
+889,Amit Rao,Female,Nagpur,Maharashtra,Self Employed,2800749,342,POOR,0,0.0,0,0,0.0,0
+890,Charles Nair,Female,Chennai,Tamil Nadu,Salaried - Private,977798,711,GOOD,0,0.0,2,0,0.0,0
+891,Elizabeth Johnson,Male,Hyderabad,Telangana,Retired,2202834,453,POOR,1,9349.39,1,1,160523.31,0
+892,Kavya Joshi,Male,Hyderabad,Telangana,Salaried - Government,2668684,482,POOR,1,103365.25,1,0,0.0,0
+893,James Chopra,Male,Delhi,Delhi,Salaried - Government,1639930,647,POOR,0,0.0,2,0,0.0,0
+894,Pooja Desai,Male,Bhopal,Madhya Pradesh,Student,1266138,373,POOR,2,70834.49,0,0,0.0,1
+895,Manoj Pillai,Male,Jaipur,Rajasthan,Freelancer,2494255,685,FAIR,0,0.0,1,1,242717.57,0
+896,Manoj Sharma,Male,Kolkata,West Bengal,Salaried - Government,515664,405,POOR,5,238761.53,0,0,0.0,3
+897,Rohan Gupta,Male,Hyderabad,Telangana,Retired,1594691,706,GOOD,1,65946.49,1,0,0.0,1
+898,Charles Jones,Male,Chandigarh,Punjab,Freelancer,187525,794,EXCELLENT,2,139145.36,2,0,0.0,0
+899,Linda Kumar,Female,Pune,Maharashtra,Retired,1651360,570,POOR,2,43031.61,1,0,0.0,0
+900,Suresh Davis,Male,Nagpur,Maharashtra,Salaried - Private,3474923,500,POOR,1,21774.37,1,1,661947.57,0
+901,Rahul Sharma,Male,Jaipur,Rajasthan,Business Owner,749902,651,FAIR,2,38175.52,1,0,0.0,0
+902,Joseph Malhotra,Female,Bengaluru,Karnataka,Salaried - Government,1718001,737,GOOD,0,0.0,3,0,0.0,0
+903,Jessica Rodriguez,Male,Jaipur,Rajasthan,Freelancer,668238,637,POOR,1,23296.16,0,0,0.0,0
+904,Arjun Chopra,Female,Kochi,Kerala,Salaried - Government,1091257,871,EXCELLENT,0,0.0,1,1,75660.12,0
+905,William Desai,Female,Delhi,Delhi,Business Owner,1523114,758,EXCELLENT,1,1276.6,2,0,0.0,0
+906,Joseph Iyer,Other,Ahmedabad,Gujarat,Freelancer,253670,860,EXCELLENT,1,27244.96,3,1,249375.3,1
+907,Vikram Reddy,Male,Jaipur,Rajasthan,Freelancer,3003504,785,EXCELLENT,2,104702.29,1,0,0.0,0
+908,Anjali Williams,Male,Kochi,Kerala,Freelancer,2988236,332,POOR,0,0.0,0,0,0.0,0
+909,Anjali Iyer,Female,Jaipur,Rajasthan,Self Employed,2424148,812,EXCELLENT,2,119649.26,0,1,275132.11,0
+910,Sarah Malhotra,Male,Bhopal,Madhya Pradesh,Self Employed,1130874,559,POOR,0,0.0,0,0,0.0,0
+911,Priya Williams,Female,Bhopal,Madhya Pradesh,Student,1846127,451,POOR,0,0.0,0,0,0.0,2
+912,William Rao,Male,Nagpur,Maharashtra,Business Owner,680536,893,EXCELLENT,2,32731.48,3,0,0.0,0
+913,Michael Kapoor,Female,Hyderabad,Telangana,Self Employed,1944651,303,POOR,2,83656.54,0,1,213183.09,0
+914,Meera Verma,Female,Chandigarh,Punjab,Retired,611316,603,POOR,1,37360.85,1,0,0.0,0
+915,Mary Mehta,Male,Bengaluru,Karnataka,Self Employed,2280741,573,POOR,0,0.0,2,0,0.0,0
+916,Richard Joshi,Female,Kochi,Kerala,Salaried - Government,2245647,460,POOR,1,133733.74,0,0,0.0,0
+917,Vikram Desai,Male,Indore,Madhya Pradesh,Freelancer,2070902,392,POOR,3,59396.14,3,1,764846.34,1
+918,Deepak Garcia,Male,Chennai,Tamil Nadu,Student,2687964,553,POOR,1,9678.85,1,0,0.0,2
+919,Pooja Singh,Male,Jaipur,Rajasthan,Salaried - Government,1949212,645,POOR,0,0.0,3,0,0.0,1
+920,Ritu Rodriguez,Female,Kochi,Kerala,Freelancer,599715,657,FAIR,1,1117.04,3,0,0.0,0
+921,James Reddy,Male,Mumbai,Maharashtra,Student,1299439,841,EXCELLENT,0,0.0,0,0,0.0,1
+922,Priya Rodriguez,Female,Chandigarh,Punjab,Business Owner,417195,638,POOR,1,13937.05,0,1,556085.42,1
+923,Jessica Martinez,Other,Kochi,Kerala,Self Employed,1338199,552,POOR,2,10886.94,1,0,0.0,0
+924,Barbara Joshi,Male,Nagpur,Maharashtra,Self Employed,1779982,495,POOR,2,37074.54,2,0,0.0,1
+925,Amit Rodriguez,Female,Delhi,Delhi,Business Owner,2281423,693,FAIR,2,58403.26,1,0,0.0,1
+926,John Desai,Female,Bhopal,Madhya Pradesh,Freelancer,3485502,355,POOR,2,190179.92,1,0,0.0,0
+927,Barbara Miller,Male,Bhopal,Madhya Pradesh,Business Owner,1600915,510,POOR,1,61520.22,1,0,0.0,1
+928,David Kapoor,Male,Mumbai,Maharashtra,Freelancer,1280669,887,EXCELLENT,3,62474.86,2,0,0.0,1
+929,Joseph Joshi,Male,Chandigarh,Punjab,Student,2602574,819,EXCELLENT,0,0.0,1,0,0.0,0
+930,Anjali Patel,Male,Lucknow,Uttar Pradesh,Self Employed,1818833,454,POOR,1,14089.24,0,0,0.0,0
+931,Vikram Smith,Female,Indore,Madhya Pradesh,Retired,914239,388,POOR,1,46112.75,0,1,145682.98,1
+932,Barbara Jones,Male,Mumbai,Maharashtra,Self Employed,967353,500,POOR,2,68933.17,2,0,0.0,0
+933,Suresh Menon,Male,Indore,Madhya Pradesh,Self Employed,2149267,368,POOR,2,120859.67,0,0,0.0,0
+934,Elizabeth Chatterjee,Female,Jaipur,Rajasthan,Self Employed,717122,611,POOR,1,73578.34,1,0,0.0,2
+935,Ajay Singh,Female,Chennai,Tamil Nadu,Retired,862198,361,POOR,0,0.0,2,0,0.0,0
+936,John Johnson,Female,Hyderabad,Telangana,Freelancer,3015256,596,POOR,2,87558.2,1,0,0.0,1
+937,Anjali Iyer,Female,Bhopal,Madhya Pradesh,Student,2647980,749,GOOD,1,121185.66,0,0,0.0,1
+938,Rohan Smith,Male,Indore,Madhya Pradesh,Student,455528,698,FAIR,0,0.0,1,0,0.0,0
+939,Elizabeth Miller,Male,Chennai,Tamil Nadu,Salaried - Government,1246534,695,FAIR,2,58299.31,0,0,0.0,3
+940,Priya Patel,Female,Indore,Madhya Pradesh,Salaried - Government,705442,719,GOOD,1,96355.66,1,0,0.0,0
+941,Divya Chatterjee,Male,Lucknow,Uttar Pradesh,Salaried - Government,2717674,527,POOR,1,23213.05,0,0,0.0,0
+942,Kavya Rao,Female,Delhi,Delhi,Self Employed,969729,307,POOR,1,2019.79,2,0,0.0,1
+943,Meera Malhotra,Female,Jaipur,Rajasthan,Student,2277953,670,FAIR,1,34177.19,2,2,957077.21,1
+944,Suresh Kapoor,Female,Kochi,Kerala,Freelancer,2604939,769,EXCELLENT,0,0.0,2,1,66490.34,2
+945,David Williams,Male,Mumbai,Maharashtra,Business Owner,1311027,390,POOR,4,62505.01,2,1,388174.58,0
+946,Robert Reddy,Male,Pune,Maharashtra,Business Owner,916329,765,EXCELLENT,0,0.0,0,0,0.0,0
+947,Kavya Sharma,Male,Mumbai,Maharashtra,Business Owner,1072307,348,POOR,1,26432.14,1,0,0.0,0
+948,Jessica Patel,Female,Jaipur,Rajasthan,Self Employed,2927411,361,POOR,0,0.0,3,0,0.0,0
+949,Amit Chatterjee,Male,Mumbai,Maharashtra,Salaried - Private,371380,854,EXCELLENT,2,70897.84,0,2,1550105.25,1
+950,Vikram Patel,Female,Nagpur,Maharashtra,Self Employed,446119,739,GOOD,1,4107.53,2,0,0.0,1
+951,Patricia Kumar,Male,Pune,Maharashtra,Freelancer,2248247,568,POOR,4,220670.11,0,0,0.0,0
+952,Linda Davis,Male,Pune,Maharashtra,Student,2086067,739,GOOD,1,96713.77,1,0,0.0,2
+953,Ritu Mehta,Male,Bengaluru,Karnataka,Freelancer,1482924,514,POOR,0,0.0,1,0,0.0,0
+954,Barbara Miller,Male,Bhopal,Madhya Pradesh,Retired,2402420,893,EXCELLENT,3,393003.13,2,1,70176.5,0
+955,Jessica Malhotra,Other,Nagpur,Maharashtra,Retired,1760842,818,EXCELLENT,1,7961.3,2,1,362548.83,0
+956,Divya Davis,Male,Bengaluru,Karnataka,Salaried - Private,254830,648,POOR,2,135538.38,0,0,0.0,0
+957,Elizabeth Sharma,Male,Ahmedabad,Gujarat,Freelancer,1796519,612,POOR,3,107939.15,1,0,0.0,1
+958,Mary Smith,Female,Bhopal,Madhya Pradesh,Freelancer,2946750,462,POOR,1,14578.63,0,1,332117.81,0
+959,Anita Malhotra,Male,Bhopal,Madhya Pradesh,Student,2788911,808,EXCELLENT,1,110818.82,0,0,0.0,0
+960,Anjali Miller,Male,Delhi,Delhi,Salaried - Private,2339519,711,GOOD,4,345732.89,0,0,0.0,1
+961,Rohan Martinez,Male,Kochi,Kerala,Salaried - Private,1467162,816,EXCELLENT,2,197436.12,0,1,133502.04,1
+962,Divya Brown,Male,Nagpur,Maharashtra,Salaried - Private,1455573,662,FAIR,1,64144.9,0,1,83025.11,2
+963,Priya Bose,Male,Bhopal,Madhya Pradesh,Student,2408821,693,FAIR,1,4113.51,0,0,0.0,1
+964,Susan Chatterjee,Male,Ahmedabad,Gujarat,Self Employed,1623170,694,FAIR,0,0.0,2,1,108357.09,0
+965,Suresh Nair,Male,Hyderabad,Telangana,Business Owner,855878,620,POOR,1,49044.37,0,0,0.0,0
+966,Joseph Kapoor,Female,Nagpur,Maharashtra,Salaried - Government,1500340,559,POOR,1,24728.02,3,0,0.0,0
+967,David Chatterjee,Female,Kochi,Kerala,Self Employed,1450567,341,POOR,3,126314.19,0,0,0.0,0
+968,Elizabeth Davis,Male,Ahmedabad,Gujarat,Self Employed,1511259,800,EXCELLENT,1,88960.26,2,0,0.0,1
+969,David Joshi,Male,Bhopal,Madhya Pradesh,Freelancer,675164,409,POOR,1,5169.06,1,0,0.0,1
+970,James Mehta,Male,Hyderabad,Telangana,Salaried - Private,2483743,416,POOR,0,0.0,0,0,0.0,0
+971,Suresh Gupta,Male,Bhopal,Madhya Pradesh,Freelancer,2768629,883,EXCELLENT,3,148781.16,0,0,0.0,1
+972,Kavya Bose,Male,Pune,Maharashtra,Business Owner,891336,399,POOR,2,178269.41,0,0,0.0,1
+973,John Sharma,Female,Nagpur,Maharashtra,Salaried - Government,2690024,505,POOR,2,59065.29,0,0,0.0,0
+974,Divya Desai,Female,Ahmedabad,Gujarat,Retired,510692,723,GOOD,1,22722.1,0,0,0.0,0
+975,Divya Malhotra,Female,Jaipur,Rajasthan,Salaried - Private,700299,870,EXCELLENT,0,0.0,0,0,0.0,1
+976,Linda Chopra,Male,Delhi,Delhi,Salaried - Private,3201361,413,POOR,0,0.0,0,0,0.0,0
+977,Barbara Kapoor,Female,Ahmedabad,Gujarat,Self Employed,693349,519,POOR,0,0.0,1,1,363008.51,0
+978,Thomas Sharma,Female,Mumbai,Maharashtra,Business Owner,1297236,873,EXCELLENT,0,0.0,0,0,0.0,0
+979,Vikram Johnson,Female,Nagpur,Maharashtra,Business Owner,1202278,550,POOR,1,11074.91,1,1,157458.55,0
+980,Charles Miller,Female,Bhopal,Madhya Pradesh,Business Owner,2365609,400,POOR,2,47261.2,0,0,0.0,0
+981,David Iyer,Female,Kolkata,West Bengal,Salaried - Government,807241,636,POOR,3,54626.18,0,0,0.0,2
+982,Patricia Pillai,Male,Kochi,Kerala,Student,2494695,769,EXCELLENT,2,124092.86,1,0,0.0,0
+983,Kiran Rodriguez,Male,Kochi,Kerala,Student,1416890,486,POOR,2,81938.42,1,0,0.0,0
+984,Barbara Jones,Male,Pune,Maharashtra,Salaried - Government,1568223,808,EXCELLENT,0,0.0,1,0,0.0,1
+985,Divya Chatterjee,Female,Mumbai,Maharashtra,Salaried - Government,1062701,670,FAIR,1,28478.09,3,2,2442999.14,1
+986,Barbara Menon,Female,Bengaluru,Karnataka,Self Employed,836071,805,EXCELLENT,0,0.0,1,1,190290.51,0
+987,Ajay Williams,Male,Mumbai,Maharashtra,Self Employed,3438640,301,POOR,0,0.0,0,1,1284676.67,0
+988,Suresh Joshi,Female,Jaipur,Rajasthan,Business Owner,2258788,767,EXCELLENT,1,34902.93,0,1,36071.99,1
+989,Elizabeth Kumar,Male,Ahmedabad,Gujarat,Retired,331471,531,POOR,3,78200.03,2,1,846253.77,3
+990,Robert Iyer,Male,Jaipur,Rajasthan,Business Owner,2138678,861,EXCELLENT,2,35058.52,1,0,0.0,0
+991,Pooja Pillai,Male,Pune,Maharashtra,Salaried - Government,3245508,321,POOR,2,111420.09,1,0,0.0,0
+992,Elizabeth Iyer,Male,Nagpur,Maharashtra,Retired,1665076,381,POOR,0,0.0,1,0,0.0,1
+993,Sneha Bose,Male,Indore,Madhya Pradesh,Self Employed,295961,638,POOR,0,0.0,1,0,0.0,1
+994,Charles Williams,Male,Jaipur,Rajasthan,Salaried - Government,2292033,657,FAIR,2,56155.35,0,1,95298.42,0
+995,Anita Brown,Female,Mumbai,Maharashtra,Salaried - Private,2779698,841,EXCELLENT,0,0.0,3,0,0.0,0
+996,Jennifer Joshi,Male,Hyderabad,Telangana,Freelancer,2696466,341,POOR,3,82709.79,3,2,911674.99,0
+997,Patricia Sharma,Male,Chandigarh,Punjab,Salaried - Private,2609298,315,POOR,0,0.0,1,0,0.0,0
+998,William Iyer,Male,Bhopal,Madhya Pradesh,Freelancer,1227006,696,FAIR,1,158810.55,1,0,0.0,0
+999,Amit Smith,Female,Bengaluru,Karnataka,Salaried - Private,1436616,587,POOR,2,155854.92,0,0,0.0,0
+1000,Ajay Smith,Female,Kochi,Kerala,Business Owner,1570244,557,POOR,2,74259.01,3,0,0.0,2

@@ -1,0 +1,151 @@
+branch_id,branch_name,city,state,employee_count,total_accounts,total_branch_deposits,total_loans_originated,total_loan_volume
+43,Chandigarh Branch 7,Chandigarh,Punjab,11,668,32619069.04,159,66222841.12
+8,Chandigarh Branch 8,Chandigarh,Punjab,14,669,32396876.95,140,57093921.06
+113,Jaipur Branch 5,Jaipur,Rajasthan,14,662,32300797.9,152,63008866.43
+70,Ahmedabad Branch 7,Ahmedabad,Gujarat,13,655,32081996.33,161,76456143.27
+12,Indore Branch 3,Indore,Madhya Pradesh,10,667,32077846.13,137,61660029.65
+29,Jaipur Branch 2,Jaipur,Rajasthan,16,670,32047429.89,160,72897044.84
+79,Jaipur Branch 7,Jaipur,Rajasthan,19,659,31978103.66,129,45320125.6
+58,Delhi Branch 4,Delhi,Delhi,12,700,31969232.54,135,45707624.99
+150,Mumbai Branch 6,Mumbai,Maharashtra,9,675,31889032.84,150,56455189.44
+92,Kochi Branch 2,Kochi,Kerala,13,645,31870099.08,137,68014603.83
+132,Jaipur Branch 6,Jaipur,Rajasthan,7,700,31837894.48,150,58217427.99
+126,Jaipur Branch 9,Jaipur,Rajasthan,14,649,31834204.08,140,56920337.99
+103,Kochi Branch 4,Kochi,Kerala,9,663,31815632.48,138,60438164.64
+100,Delhi Branch 1,Delhi,Delhi,8,659,31681188.63,171,72424734.5
+141,Indore Branch 6,Indore,Madhya Pradesh,9,657,31645123.39,138,58697556.99
+104,Mumbai Branch 5,Mumbai,Maharashtra,16,639,31491647.71,111,50970216.93
+147,Mumbai Branch 3,Mumbai,Maharashtra,9,643,31438225.14,159,73601913.38
+15,Chandigarh Branch 6,Chandigarh,Punjab,15,682,31435234.17,137,62223709.01
+46,Indore Branch 1,Indore,Madhya Pradesh,11,659,31326756.43,147,55754858.16
+50,Bhopal Branch 5,Bhopal,Madhya Pradesh,14,669,31031752.94,141,63454072.39
+77,Chennai Branch 5,Chennai,Tamil Nadu,13,674,30937762.89,152,63686715.77
+111,Chennai Branch 3,Chennai,Tamil Nadu,15,635,30927445.52,136,55206357.56
+66,Chennai Branch 3,Chennai,Tamil Nadu,10,674,30771715.18,168,70713884.33
+94,Hyderabad Branch 4,Hyderabad,Telangana,5,653,30766256.11,133,59458787.64
+36,Mumbai Branch 9,Mumbai,Maharashtra,10,652,30546124.87,145,56192860.84
+64,Indore Branch 1,Indore,Madhya Pradesh,11,635,30456858.26,150,59200513.78
+96,Chennai Branch 6,Chennai,Tamil Nadu,5,634,30421771.22,159,60946113.85
+11,Ahmedabad Branch 2,Ahmedabad,Gujarat,18,615,30397708.92,150,56689138.82
+87,Pune Branch 6,Pune,Maharashtra,9,643,30363155.01,161,64154998.98
+32,Bengaluru Branch 5,Bengaluru,Karnataka,12,653,30299168.28,168,64271710.76
+105,Bhopal Branch 6,Bhopal,Madhya Pradesh,12,598,30274748.12,149,53504337.5
+143,Chennai Branch 8,Chennai,Tamil Nadu,15,633,30227800.54,128,61130602.03
+37,Kochi Branch 1,Kochi,Kerala,11,657,30211515.65,146,50590597.51
+101,Kochi Branch 2,Kochi,Kerala,9,661,29929083.11,179,72443264.42
+56,Mumbai Branch 2,Mumbai,Maharashtra,12,634,29923718.35,161,63902465.73
+117,Mumbai Branch 9,Mumbai,Maharashtra,3,634,29893468.75,139,56382341.03
+17,Ahmedabad Branch 8,Ahmedabad,Gujarat,9,659,29855638.57,134,52515579.8
+48,Nagpur Branch 3,Nagpur,Maharashtra,11,605,29839920.19,148,64614730.1
+133,Pune Branch 7,Pune,Maharashtra,10,632,29807202.16,153,57303699.19
+38,Kochi Branch 2,Kochi,Kerala,12,652,29782285.89,146,69240476.25
+57,Jaipur Branch 3,Jaipur,Rajasthan,18,631,29772233.29,162,71740178.76
+4,Kolkata Branch 4,Kolkata,West Bengal,15,617,29767512.3,138,50727003.34
+54,Ahmedabad Branch 9,Ahmedabad,Gujarat,6,668,29733860.11,144,73092967.78
+139,Hyderabad Branch 4,Hyderabad,Telangana,12,651,29675679.75,151,59767045.06
+137,Lucknow Branch 2,Lucknow,Uttar Pradesh,11,645,29670866.13,122,52490656.4
+74,Pune Branch 2,Pune,Maharashtra,12,657,29656446.06,134,59278459.15
+39,Chennai Branch 3,Chennai,Tamil Nadu,18,626,29648071.55,165,64575572.32
+95,Nagpur Branch 5,Nagpur,Maharashtra,10,611,29647721.09,167,68537397.04
+84,Kochi Branch 3,Kochi,Kerala,15,627,29637057.67,142,58711882.41
+145,Indore Branch 1,Indore,Madhya Pradesh,6,649,29633790.18,152,71395215.93
+93,Kochi Branch 3,Kochi,Kerala,15,626,29616632.95,139,55064613.57
+106,Bhopal Branch 7,Bhopal,Madhya Pradesh,7,628,29594837.47,127,52687280.0
+89,Bhopal Branch 8,Bhopal,Madhya Pradesh,17,635,29586233.74,152,67178586.34
+34,Jaipur Branch 7,Jaipur,Rajasthan,12,595,29570770.79,150,60141813.61
+122,Chandigarh Branch 5,Chandigarh,Punjab,8,645,29569800.35,152,68752896.79
+91,Kolkata Branch 1,Kolkata,West Bengal,11,669,29558703.99,123,47607302.81
+123,Lucknow Branch 6,Lucknow,Uttar Pradesh,12,647,29543929.74,149,56244277.69
+1,Pune Branch 1,Pune,Maharashtra,10,622,29523331.31,148,59382629.3
+85,Lucknow Branch 4,Lucknow,Uttar Pradesh,12,652,29522278.05,144,56847640.8
+78,Bengaluru Branch 6,Bengaluru,Karnataka,11,624,29505711.43,171,78051106.26
+19,Kochi Branch 1,Kochi,Kerala,12,652,29469599.05,136,52974784.63
+146,Kochi Branch 2,Kochi,Kerala,12,620,29412684.31,141,59842395.82
+22,Hyderabad Branch 4,Hyderabad,Telangana,8,646,29397062.45,139,58269918.05
+52,Delhi Branch 7,Delhi,Delhi,12,636,29383572.56,167,72669294.89
+124,Ahmedabad Branch 7,Ahmedabad,Gujarat,9,642,29371893.31,134,59031734.66
+148,Bengaluru Branch 4,Bengaluru,Karnataka,7,665,29365836.43,163,72118574.55
+140,Kolkata Branch 5,Kolkata,West Bengal,19,625,29247953.84,144,59068686.3
+114,Kolkata Branch 6,Kolkata,West Bengal,20,657,29247833.62,131,52869667.97
+59,Bhopal Branch 5,Bhopal,Madhya Pradesh,13,634,29245900.79,122,53973448.6
+55,Ahmedabad Branch 1,Ahmedabad,Gujarat,7,638,29175220.65,119,50458639.43
+76,Ahmedabad Branch 4,Ahmedabad,Gujarat,15,655,29159816.59,141,71444161.01
+23,Delhi Branch 5,Delhi,Delhi,13,617,29148958.71,147,60873705.94
+130,Lucknow Branch 4,Lucknow,Uttar Pradesh,12,622,29128354.38,162,65852885.5
+81,Indore Branch 9,Indore,Madhya Pradesh,15,621,28869689.5,132,50477029.42
+82,Kolkata Branch 1,Kolkata,West Bengal,12,617,28862762.75,147,59632581.14
+144,Kolkata Branch 9,Kolkata,West Bengal,7,629,28849885.46,144,54926161.07
+120,Pune Branch 3,Pune,Maharashtra,12,647,28844293.97,152,60654184.12
+16,Bhopal Branch 7,Bhopal,Madhya Pradesh,16,639,28828543.31,146,72823048.49
+20,Kolkata Branch 2,Kolkata,West Bengal,7,621,28823960.88,136,65078787.15
+31,Kolkata Branch 4,Kolkata,West Bengal,11,631,28760749.05,141,68725080.75
+7,Pune Branch 7,Pune,Maharashtra,13,610,28738008.86,147,58908695.42
+61,Nagpur Branch 7,Nagpur,Maharashtra,10,644,28702106.31,141,54618549.74
+28,Kochi Branch 1,Kochi,Kerala,13,645,28558197.33,145,62352339.72
+127,Pune Branch 1,Pune,Maharashtra,16,623,28521072.48,178,82125727.74
+118,Delhi Branch 1,Delhi,Delhi,14,620,28488133.47,152,60813013.82
+128,Bhopal Branch 2,Bhopal,Madhya Pradesh,14,625,28475724.13,136,57968354.23
+71,Bhopal Branch 8,Bhopal,Madhya Pradesh,13,604,28435526.91,147,56342835.25
+26,Lucknow Branch 8,Lucknow,Uttar Pradesh,8,667,28435338.43,126,56548338.18
+41,Delhi Branch 5,Delhi,Delhi,11,639,28418441.57,171,64821865.43
+5,Kolkata Branch 5,Kolkata,West Bengal,15,623,28418218.28,139,53510902.37
+83,Delhi Branch 2,Delhi,Delhi,11,641,28389975.09,163,68880438.74
+88,Chennai Branch 7,Chennai,Tamil Nadu,11,634,28379892.14,149,61434909.45
+45,Pune Branch 9,Pune,Maharashtra,13,643,28365727.26,145,58972884.23
+51,Bhopal Branch 6,Bhopal,Madhya Pradesh,19,633,28359010.93,152,62691592.75
+107,Bhopal Branch 8,Bhopal,Madhya Pradesh,14,618,28347470.89,143,60191554.04
+97,Bengaluru Branch 7,Bengaluru,Karnataka,8,634,28345719.59,140,67881770.76
+112,Bhopal Branch 4,Bhopal,Madhya Pradesh,8,614,28338027.02,165,78258394.32
+18,Pune Branch 9,Pune,Maharashtra,10,647,28313463.96,140,63306880.3
+10,Pune Branch 1,Pune,Maharashtra,8,649,28313159.05,120,51214749.87
+49,Chandigarh Branch 4,Chandigarh,Punjab,12,630,28273225.93,152,66241702.34
+53,Hyderabad Branch 8,Hyderabad,Telangana,21,618,28188430.88,135,56416647.63
+108,Lucknow Branch 9,Lucknow,Uttar Pradesh,11,607,28169733.59,139,54244616.92
+63,Hyderabad Branch 9,Hyderabad,Telangana,14,643,28167571.65,154,61576636.15
+13,Bhopal Branch 4,Bhopal,Madhya Pradesh,9,652,28150962.28,141,67474343.52
+68,Hyderabad Branch 5,Hyderabad,Telangana,13,643,28085760.66,133,54208591.72
+110,Chandigarh Branch 2,Chandigarh,Punjab,13,608,28077793.73,144,70162013.87
+119,Bengaluru Branch 2,Bengaluru,Karnataka,7,609,28061216.52,136,61307313.96
+42,Bhopal Branch 6,Bhopal,Madhya Pradesh,11,610,28060218.92,156,67030565.04
+44,Hyderabad Branch 8,Hyderabad,Telangana,15,611,28034333.52,146,72342293.7
+67,Nagpur Branch 4,Nagpur,Maharashtra,13,622,28013924.56,155,64779945.42
+116,Jaipur Branch 8,Jaipur,Rajasthan,16,608,27974968.54,161,67348847.14
+3,Lucknow Branch 3,Lucknow,Uttar Pradesh,9,641,27952086.72,160,66934203.92
+136,Chennai Branch 1,Chennai,Tamil Nadu,11,665,27833902.47,139,60237486.18
+138,Mumbai Branch 3,Mumbai,Maharashtra,9,636,27822827.77,150,62478922.64
+6,Kochi Branch 6,Kochi,Kerala,15,608,27731272.08,156,65917812.67
+72,Delhi Branch 9,Delhi,Delhi,12,609,27707939.16,162,67641957.96
+109,Ahmedabad Branch 1,Ahmedabad,Gujarat,13,624,27618240.69,157,70133961.58
+2,Bhopal Branch 2,Bhopal,Madhya Pradesh,9,617,27600366.42,128,55248129.0
+62,Bhopal Branch 8,Bhopal,Madhya Pradesh,7,649,27530471.25,123,47376753.46
+115,Ahmedabad Branch 7,Ahmedabad,Gujarat,17,570,27527568.64,161,64218277.39
+129,Jaipur Branch 3,Jaipur,Rajasthan,12,622,27514757.58,174,71551397.76
+47,Kolkata Branch 2,Kolkata,West Bengal,15,635,27481794.18,148,55008155.2
+33,Pune Branch 6,Pune,Maharashtra,10,628,27465758.31,157,58626974.95
+60,Chandigarh Branch 6,Chandigarh,Punjab,13,628,27423584.92,163,63198988.08
+75,Chandigarh Branch 3,Chandigarh,Punjab,17,623,27287236.47,134,50056504.57
+27,Kolkata Branch 9,Kolkata,West Bengal,9,622,27274872.14,151,58616212.76
+25,Bhopal Branch 7,Bhopal,Madhya Pradesh,13,636,27266720.47,136,64433957.82
+40,Lucknow Branch 4,Lucknow,Uttar Pradesh,19,606,27257470.06,130,51286542.36
+149,Kochi Branch 5,Kochi,Kerala,22,606,27242754.19,160,67048882.32
+99,Lucknow Branch 9,Lucknow,Uttar Pradesh,13,614,27134231.29,145,59092785.28
+80,Chandigarh Branch 8,Chandigarh,Punjab,16,632,27125368.61,147,67396168.15
+86,Chandigarh Branch 5,Chandigarh,Punjab,12,604,27033881.0,153,54374804.52
+24,Nagpur Branch 6,Nagpur,Maharashtra,8,618,27029683.31,154,64628459.0
+121,Kolkata Branch 4,Kolkata,West Bengal,14,613,27015471.31,128,56664987.84
+90,Kochi Branch 9,Kochi,Kerala,12,613,26984898.27,146,61570504.2
+73,Kolkata Branch 1,Kolkata,West Bengal,7,634,26958390.09,135,54688673.08
+21,Ahmedabad Branch 3,Ahmedabad,Gujarat,12,608,26941075.32,151,50301331.86
+14,Bhopal Branch 5,Bhopal,Madhya Pradesh,16,588,26894350.45,144,57511804.41
+9,Bengaluru Branch 9,Bengaluru,Karnataka,14,635,26876986.14,156,64674282.42
+134,Jaipur Branch 8,Jaipur,Rajasthan,12,624,26749597.99,151,63743095.26
+135,Bhopal Branch 9,Bhopal,Madhya Pradesh,11,571,26426591.41,149,63158458.42
+69,Pune Branch 6,Pune,Maharashtra,8,606,26409957.07,132,51952985.87
+102,Delhi Branch 3,Delhi,Delhi,12,608,26395761.85,158,67593994.09
+35,Nagpur Branch 8,Nagpur,Maharashtra,9,573,26383421.28,148,62758211.5
+131,Jaipur Branch 5,Jaipur,Rajasthan,15,604,26289288.68,140,52152207.67
+65,Kolkata Branch 2,Kolkata,West Bengal,9,606,26084600.22,151,60712432.9
+125,Kochi Branch 8,Kochi,Kerala,15,591,25938193.47,156,65163499.86
+142,Bengaluru Branch 7,Bengaluru,Karnataka,13,612,25878176.17,128,47375880.59
+98,Chandigarh Branch 8,Chandigarh,Punjab,9,610,25220683.76,133,66578251.07
+30,Kolkata Branch 3,Kolkata,West Bengal,15,575,24974343.44,182,86834570.45
